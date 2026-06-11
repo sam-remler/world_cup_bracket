@@ -75,4 +75,4 @@ the site flags any player whose picks don't match the 2-per-tier format.
 - The free football-data.org tier allows 10 requests/minute; this setup uses
   2 per refresh, far under the limit.
 - If a team name ever shows up in `unmatchedTeams` inside `results.json`,
-  add it to that team's `aliases` in `data/teams.js`.
+  add it to that team's `aliases` in `data/teams.js`. 
