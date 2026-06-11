@@ -1,0 +1,8 @@
+{
+  "_help": "Manual control panel. placements: set team ids (from data/teams.js) once the tournament ends, e.g. {\"first\": \"spain\", \"second\": \"argentina\", \"third\": \"france\", \"fourth\": \"england\"}. goldenBootWinner: the actual golden boot player's name — used as the tiebreaker (matched loosely against each player's pick). advancedTeams: team ids to force-award the past-group-stage bonus if the API is slow to publish round-of-32 fixtures. excludeMatchIds: API match ids to ignore. manualMatches: hand-entered matches in the same shape as results.json matches (use negative ids to avoid collisions).",
+  "placements": { "first": null, "second": null, "third": null, "fourth": null },
+  "goldenBootWinner": null,
+  "advancedTeams": [],
+  "excludeMatchIds": [],
+  "manualMatches": []
+}

@@ -1,0 +1,37 @@
+name: Update World Cup results
+
+on:
+  schedule:
+    # Every 30 minutes (GitHub may delay scheduled runs slightly)
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch latest results
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        run: node scripts/fetch-results.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "results-bot"
+          git config user.email "actions@github.com"
+          if ! git diff --quiet -- data/results.json; then
+            git add data/results.json
+            git commit -m "Update results $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "No changes."
+          fi
