@@ -38,7 +38,7 @@ window.POOL_PLAYERS = [
       "senegal", "egypt",
       "southkorea", "uzbekistan",
     ],
-    goldenBoot: "TBD",
+    goldenBoot: "Luis Diaz",
   },
   {
     name: "Kellen",
@@ -137,7 +137,7 @@ window.POOL_PLAYERS = [
       "algeria", "scotland",     // tier 4
       "iran", "saudiarabia",     // tier 5
     ],
-    goldenBoot: "TBD",
+    goldenBoot: "Luis Diaz",
   },
   {
     name: "Kinji",
