@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T00:12:35.641Z",
+  "updatedAt": "2026-06-12T05:11:50.974Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -27,7 +27,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
       "utcDate": "2026-06-12T02:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "southkorea",
         "name": "South Korea"
@@ -36,10 +36,10 @@
         "id": "czechia",
         "name": "Czechia"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 2,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -207,7 +207,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "utcDate": "2026-06-14T23:00:00Z",
-      "status": "TIMED",
+      "status": "SCHEDULED",
       "home": {
         "id": "ivorycoast",
         "name": "Ivory Coast"
@@ -2095,6 +2095,27 @@
       "player": "Raúl Jiménez",
       "team": "Mexico",
       "teamId": "mexico",
+      "goals": 1,
+      "assists": null
+    },
+    {
+      "player": "Ladislav Krejčí",
+      "team": "Czechia",
+      "teamId": "czechia",
+      "goals": 1,
+      "assists": null
+    },
+    {
+      "player": "In-beom Hwang",
+      "team": "South Korea",
+      "teamId": "southkorea",
+      "goals": 1,
+      "assists": 1
+    },
+    {
+      "player": "Hyun-Gyu Oh",
+      "team": "South Korea",
+      "teamId": "southkorea",
       "goals": 1,
       "assists": null
     }
