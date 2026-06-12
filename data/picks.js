@@ -16,7 +16,7 @@ window.POOL_PLAYERS = [
       "ecuador", "czechia",       // tier 4
       "southkorea", "iran",       // tier 5
     ],
-    goldenBoot: null, // TODO: add golden boot pick
+    goldenBoot: "Harry Kane",
   },
   {
     name: "Julian",
@@ -27,7 +27,7 @@ window.POOL_PLAYERS = [
       "czechia", "canada",
       "southkorea", "saudiarabia",
     ],
-    goldenBoot: null,
+    goldenBoot: "Kylian Mbappé",
   },
   {
     name: "Jesse",
@@ -38,7 +38,7 @@ window.POOL_PLAYERS = [
       "senegal", "egypt",
       "southkorea", "uzbekistan",
     ],
-    goldenBoot: null,
+    goldenBoot: "TBD",
   },
   {
     name: "Kellen",
@@ -49,7 +49,7 @@ window.POOL_PLAYERS = [
       "scotland", "senegal",
       "southkorea", "iran",
     ],
-    goldenBoot: null,
+    goldenBoot: "Kylian Mbappé",
   },
   {
     name: "Jasper",
@@ -60,7 +60,7 @@ window.POOL_PLAYERS = [
       "ghana", "canada",
       "iran", "uzbekistan",
     ],
-    goldenBoot: null,
+    goldenBoot: "Lionel Messi",
   },
   {
     name: "Nina",
@@ -71,7 +71,7 @@ window.POOL_PLAYERS = [
       "senegal", "scotland",
       "iran", "southkorea",
     ],
-    goldenBoot: null,
+    goldenBoot: "Lamine Yamal",
   },
   {
     name: "Sami",
@@ -82,7 +82,7 @@ window.POOL_PLAYERS = [
       "senegal", "austria",
       "southkorea", "australia",
     ],
-    goldenBoot: null,
+    goldenBoot: "Harry Kane",
   },
   {
     name: "Andrew",
@@ -93,7 +93,7 @@ window.POOL_PLAYERS = [
       "ecuador", "canada",
       "southkorea", "capeverde",
     ],
-    goldenBoot: null,
+    goldenBoot: "Kylian Mbappé",
   },
   {
     name: "Sam",
@@ -104,7 +104,7 @@ window.POOL_PLAYERS = [
       "ecuador", "senegal",
       "iran", "uzbekistan",
     ],
-    goldenBoot: null,
+    goldenBoot: "Lionel Messi",
   },
   {
     name: "Tal",
@@ -115,7 +115,7 @@ window.POOL_PLAYERS = [
       "ecuador", "canada",
       "southkorea", "uzbekistan",
     ],
-    goldenBoot: null,
+    goldenBoot: "Lamine Yamal",
   },
   {
     name: "Nate",
@@ -126,7 +126,7 @@ window.POOL_PLAYERS = [
       "ghana", "canada",
       "iran", "southkorea",
     ],
-    goldenBoot: null,
+    goldenBoot: "Cristiano Ronaldo",
   },
   {
     name: "Oliver",
@@ -137,7 +137,7 @@ window.POOL_PLAYERS = [
       "algeria", "scotland",     // tier 4
       "iran", "saudiarabia",     // tier 5
     ],
-    goldenBoot: null,
+    goldenBoot: "TBD",
   },
   {
     name: "Kinji",
@@ -148,9 +148,8 @@ window.POOL_PLAYERS = [
       "senegal", "scotland",      // tier 4
       "southkorea", "capeverde",  // tier 5
     ],
-    goldenBoot: null,
+    goldenBoot: "Harry Kane",
   },
-];
 ];
 
 // ============================================================
