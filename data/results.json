@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T09:40:07.733Z",
+  "updatedAt": "2026-06-12T12:47:09.021Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -207,7 +207,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "utcDate": "2026-06-14T23:00:00Z",
-      "status": "TIMED",
+      "status": "SCHEDULED",
       "home": {
         "id": "ivorycoast",
         "name": "Ivory Coast"
