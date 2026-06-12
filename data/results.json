@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T20:32:10.829Z",
+  "updatedAt": "2026-06-12T22:17:21.167Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -47,7 +47,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "utcDate": "2026-06-12T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "canada",
         "name": "Canada"
@@ -56,9 +56,9 @@
         "id": "bosnia",
         "name": "Bosnia-Herzegovina"
       },
-      "winner": "away",
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": 0,
+      "goalsHome": 1,
       "goalsAway": 1,
       "penalties": null
     },
@@ -207,7 +207,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "utcDate": "2026-06-14T23:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "home": {
         "id": "ivorycoast",
         "name": "Ivory Coast"
@@ -2123,6 +2123,13 @@
       "player": "Jovo Lukić",
       "team": "Bosnia-Herzegovina",
       "teamId": "bosnia",
+      "goals": 1,
+      "assists": null
+    },
+    {
+      "player": "Cyle Larin",
+      "team": "Canada",
+      "teamId": "canada",
       "goals": 1,
       "assists": null
     }
