@@ -1,7 +1,2103 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-06-12T00:12:35.641Z",
   "source": "football-data.org",
-  "matches": [],
-  "scorers": [],
+  "matches": [
+    {
+      "id": 537327,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_A",
+      "utcDate": "2026-06-11T19:00:00Z",
+      "status": "FINISHED",
+      "home": {
+        "id": "mexico",
+        "name": "Mexico"
+      },
+      "away": {
+        "id": "southafrica",
+        "name": "South Africa"
+      },
+      "winner": "home",
+      "duration": "REGULAR",
+      "goalsHome": 2,
+      "goalsAway": 0,
+      "penalties": null
+    },
+    {
+      "id": 537328,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_A",
+      "utcDate": "2026-06-12T02:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "southkorea",
+        "name": "South Korea"
+      },
+      "away": {
+        "id": "czechia",
+        "name": "Czechia"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537333,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_B",
+      "utcDate": "2026-06-12T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "canada",
+        "name": "Canada"
+      },
+      "away": {
+        "id": "bosnia",
+        "name": "Bosnia-Herzegovina"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537345,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_D",
+      "utcDate": "2026-06-13T01:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "usa",
+        "name": "United States"
+      },
+      "away": {
+        "id": "paraguay",
+        "name": "Paraguay"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537334,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_B",
+      "utcDate": "2026-06-13T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "qatar",
+        "name": "Qatar"
+      },
+      "away": {
+        "id": "switzerland",
+        "name": "Switzerland"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537339,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_C",
+      "utcDate": "2026-06-13T22:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "brazil",
+        "name": "Brazil"
+      },
+      "away": {
+        "id": "morocco",
+        "name": "Morocco"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537340,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_C",
+      "utcDate": "2026-06-14T01:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "haiti",
+        "name": "Haiti"
+      },
+      "away": {
+        "id": "scotland",
+        "name": "Scotland"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537346,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_D",
+      "utcDate": "2026-06-14T04:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "australia",
+        "name": "Australia"
+      },
+      "away": {
+        "id": "turkiye",
+        "name": "Turkey"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537351,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "utcDate": "2026-06-14T17:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "germany",
+        "name": "Germany"
+      },
+      "away": {
+        "id": "curacao",
+        "name": "Curaçao"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537357,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_F",
+      "utcDate": "2026-06-14T20:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "netherlands",
+        "name": "Netherlands"
+      },
+      "away": {
+        "id": "japan",
+        "name": "Japan"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537352,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "utcDate": "2026-06-14T23:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "ivorycoast",
+        "name": "Ivory Coast"
+      },
+      "away": {
+        "id": "ecuador",
+        "name": "Ecuador"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537358,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_F",
+      "utcDate": "2026-06-15T02:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "sweden",
+        "name": "Sweden"
+      },
+      "away": {
+        "id": "tunisia",
+        "name": "Tunisia"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537369,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_H",
+      "utcDate": "2026-06-15T16:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "spain",
+        "name": "Spain"
+      },
+      "away": {
+        "id": "capeverde",
+        "name": "Cape Verde Islands"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537363,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_G",
+      "utcDate": "2026-06-15T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "belgium",
+        "name": "Belgium"
+      },
+      "away": {
+        "id": "egypt",
+        "name": "Egypt"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537370,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_H",
+      "utcDate": "2026-06-15T22:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "saudiarabia",
+        "name": "Saudi Arabia"
+      },
+      "away": {
+        "id": "uruguay",
+        "name": "Uruguay"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537364,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_G",
+      "utcDate": "2026-06-16T01:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "iran",
+        "name": "Iran"
+      },
+      "away": {
+        "id": "newzealand",
+        "name": "New Zealand"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537391,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "utcDate": "2026-06-16T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "france",
+        "name": "France"
+      },
+      "away": {
+        "id": "senegal",
+        "name": "Senegal"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537392,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "utcDate": "2026-06-16T22:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "iraq",
+        "name": "Iraq"
+      },
+      "away": {
+        "id": "norway",
+        "name": "Norway"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537397,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_J",
+      "utcDate": "2026-06-17T01:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "argentina",
+        "name": "Argentina"
+      },
+      "away": {
+        "id": "algeria",
+        "name": "Algeria"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537398,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_J",
+      "utcDate": "2026-06-17T04:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "austria",
+        "name": "Austria"
+      },
+      "away": {
+        "id": "jordan",
+        "name": "Jordan"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537403,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_K",
+      "utcDate": "2026-06-17T17:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "portugal",
+        "name": "Portugal"
+      },
+      "away": {
+        "id": "drcongo",
+        "name": "Congo DR"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537409,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "utcDate": "2026-06-17T20:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "england",
+        "name": "England"
+      },
+      "away": {
+        "id": "croatia",
+        "name": "Croatia"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537410,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "utcDate": "2026-06-17T23:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "ghana",
+        "name": "Ghana"
+      },
+      "away": {
+        "id": "panama",
+        "name": "Panama"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537404,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_K",
+      "utcDate": "2026-06-18T02:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "uzbekistan",
+        "name": "Uzbekistan"
+      },
+      "away": {
+        "id": "colombia",
+        "name": "Colombia"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537329,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_A",
+      "utcDate": "2026-06-18T16:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "czechia",
+        "name": "Czechia"
+      },
+      "away": {
+        "id": "southafrica",
+        "name": "South Africa"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537335,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_B",
+      "utcDate": "2026-06-18T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "switzerland",
+        "name": "Switzerland"
+      },
+      "away": {
+        "id": "bosnia",
+        "name": "Bosnia-Herzegovina"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537336,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_B",
+      "utcDate": "2026-06-18T22:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "canada",
+        "name": "Canada"
+      },
+      "away": {
+        "id": "qatar",
+        "name": "Qatar"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537330,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_A",
+      "utcDate": "2026-06-19T01:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "mexico",
+        "name": "Mexico"
+      },
+      "away": {
+        "id": "southkorea",
+        "name": "South Korea"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537348,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_D",
+      "utcDate": "2026-06-19T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "usa",
+        "name": "United States"
+      },
+      "away": {
+        "id": "australia",
+        "name": "Australia"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537342,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_C",
+      "utcDate": "2026-06-19T22:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "scotland",
+        "name": "Scotland"
+      },
+      "away": {
+        "id": "morocco",
+        "name": "Morocco"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537341,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_C",
+      "utcDate": "2026-06-20T00:30:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "brazil",
+        "name": "Brazil"
+      },
+      "away": {
+        "id": "haiti",
+        "name": "Haiti"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537347,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_D",
+      "utcDate": "2026-06-20T03:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "turkiye",
+        "name": "Turkey"
+      },
+      "away": {
+        "id": "paraguay",
+        "name": "Paraguay"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537359,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_F",
+      "utcDate": "2026-06-20T17:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "netherlands",
+        "name": "Netherlands"
+      },
+      "away": {
+        "id": "sweden",
+        "name": "Sweden"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537353,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "utcDate": "2026-06-20T20:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "germany",
+        "name": "Germany"
+      },
+      "away": {
+        "id": "ivorycoast",
+        "name": "Ivory Coast"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537354,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "utcDate": "2026-06-21T00:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "ecuador",
+        "name": "Ecuador"
+      },
+      "away": {
+        "id": "curacao",
+        "name": "Curaçao"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537360,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_F",
+      "utcDate": "2026-06-21T04:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "tunisia",
+        "name": "Tunisia"
+      },
+      "away": {
+        "id": "japan",
+        "name": "Japan"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537371,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_H",
+      "utcDate": "2026-06-21T16:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "spain",
+        "name": "Spain"
+      },
+      "away": {
+        "id": "saudiarabia",
+        "name": "Saudi Arabia"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537365,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_G",
+      "utcDate": "2026-06-21T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "belgium",
+        "name": "Belgium"
+      },
+      "away": {
+        "id": "iran",
+        "name": "Iran"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537372,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_H",
+      "utcDate": "2026-06-21T22:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "uruguay",
+        "name": "Uruguay"
+      },
+      "away": {
+        "id": "capeverde",
+        "name": "Cape Verde Islands"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537366,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_G",
+      "utcDate": "2026-06-22T01:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "newzealand",
+        "name": "New Zealand"
+      },
+      "away": {
+        "id": "egypt",
+        "name": "Egypt"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537399,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_J",
+      "utcDate": "2026-06-22T17:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "argentina",
+        "name": "Argentina"
+      },
+      "away": {
+        "id": "austria",
+        "name": "Austria"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537393,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "utcDate": "2026-06-22T21:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "france",
+        "name": "France"
+      },
+      "away": {
+        "id": "iraq",
+        "name": "Iraq"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537394,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "utcDate": "2026-06-23T00:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "norway",
+        "name": "Norway"
+      },
+      "away": {
+        "id": "senegal",
+        "name": "Senegal"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537400,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_J",
+      "utcDate": "2026-06-23T03:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "jordan",
+        "name": "Jordan"
+      },
+      "away": {
+        "id": "algeria",
+        "name": "Algeria"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537405,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_K",
+      "utcDate": "2026-06-23T17:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "portugal",
+        "name": "Portugal"
+      },
+      "away": {
+        "id": "uzbekistan",
+        "name": "Uzbekistan"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537411,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "utcDate": "2026-06-23T20:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "england",
+        "name": "England"
+      },
+      "away": {
+        "id": "ghana",
+        "name": "Ghana"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537412,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "utcDate": "2026-06-23T23:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "panama",
+        "name": "Panama"
+      },
+      "away": {
+        "id": "croatia",
+        "name": "Croatia"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537406,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_K",
+      "utcDate": "2026-06-24T02:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "colombia",
+        "name": "Colombia"
+      },
+      "away": {
+        "id": "drcongo",
+        "name": "Congo DR"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537337,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_B",
+      "utcDate": "2026-06-24T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "switzerland",
+        "name": "Switzerland"
+      },
+      "away": {
+        "id": "canada",
+        "name": "Canada"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537338,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_B",
+      "utcDate": "2026-06-24T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "bosnia",
+        "name": "Bosnia-Herzegovina"
+      },
+      "away": {
+        "id": "qatar",
+        "name": "Qatar"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537344,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_C",
+      "utcDate": "2026-06-24T22:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "morocco",
+        "name": "Morocco"
+      },
+      "away": {
+        "id": "haiti",
+        "name": "Haiti"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537343,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_C",
+      "utcDate": "2026-06-24T22:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "scotland",
+        "name": "Scotland"
+      },
+      "away": {
+        "id": "brazil",
+        "name": "Brazil"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537331,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_A",
+      "utcDate": "2026-06-25T01:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "czechia",
+        "name": "Czechia"
+      },
+      "away": {
+        "id": "mexico",
+        "name": "Mexico"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537332,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_A",
+      "utcDate": "2026-06-25T01:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "southafrica",
+        "name": "South Africa"
+      },
+      "away": {
+        "id": "southkorea",
+        "name": "South Korea"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537355,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "utcDate": "2026-06-25T20:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "ecuador",
+        "name": "Ecuador"
+      },
+      "away": {
+        "id": "germany",
+        "name": "Germany"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537356,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_E",
+      "utcDate": "2026-06-25T20:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "curacao",
+        "name": "Curaçao"
+      },
+      "away": {
+        "id": "ivorycoast",
+        "name": "Ivory Coast"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537361,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_F",
+      "utcDate": "2026-06-25T23:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "tunisia",
+        "name": "Tunisia"
+      },
+      "away": {
+        "id": "netherlands",
+        "name": "Netherlands"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537362,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_F",
+      "utcDate": "2026-06-25T23:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "japan",
+        "name": "Japan"
+      },
+      "away": {
+        "id": "sweden",
+        "name": "Sweden"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537349,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_D",
+      "utcDate": "2026-06-26T02:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "turkiye",
+        "name": "Turkey"
+      },
+      "away": {
+        "id": "usa",
+        "name": "United States"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537350,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_D",
+      "utcDate": "2026-06-26T02:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "paraguay",
+        "name": "Paraguay"
+      },
+      "away": {
+        "id": "australia",
+        "name": "Australia"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537395,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "utcDate": "2026-06-26T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "norway",
+        "name": "Norway"
+      },
+      "away": {
+        "id": "france",
+        "name": "France"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537396,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_I",
+      "utcDate": "2026-06-26T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "senegal",
+        "name": "Senegal"
+      },
+      "away": {
+        "id": "iraq",
+        "name": "Iraq"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537373,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_H",
+      "utcDate": "2026-06-27T00:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "uruguay",
+        "name": "Uruguay"
+      },
+      "away": {
+        "id": "spain",
+        "name": "Spain"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537374,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_H",
+      "utcDate": "2026-06-27T00:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "capeverde",
+        "name": "Cape Verde Islands"
+      },
+      "away": {
+        "id": "saudiarabia",
+        "name": "Saudi Arabia"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537367,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_G",
+      "utcDate": "2026-06-27T03:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "newzealand",
+        "name": "New Zealand"
+      },
+      "away": {
+        "id": "belgium",
+        "name": "Belgium"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537368,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_G",
+      "utcDate": "2026-06-27T03:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "egypt",
+        "name": "Egypt"
+      },
+      "away": {
+        "id": "iran",
+        "name": "Iran"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537413,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "utcDate": "2026-06-27T21:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "panama",
+        "name": "Panama"
+      },
+      "away": {
+        "id": "england",
+        "name": "England"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537414,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_L",
+      "utcDate": "2026-06-27T21:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "croatia",
+        "name": "Croatia"
+      },
+      "away": {
+        "id": "ghana",
+        "name": "Ghana"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537407,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_K",
+      "utcDate": "2026-06-27T23:30:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "colombia",
+        "name": "Colombia"
+      },
+      "away": {
+        "id": "portugal",
+        "name": "Portugal"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537408,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_K",
+      "utcDate": "2026-06-27T23:30:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "drcongo",
+        "name": "Congo DR"
+      },
+      "away": {
+        "id": "uzbekistan",
+        "name": "Uzbekistan"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537401,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_J",
+      "utcDate": "2026-06-28T02:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "jordan",
+        "name": "Jordan"
+      },
+      "away": {
+        "id": "argentina",
+        "name": "Argentina"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537402,
+      "stage": "GROUP_STAGE",
+      "group": "GROUP_J",
+      "utcDate": "2026-06-28T02:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": "algeria",
+        "name": "Algeria"
+      },
+      "away": {
+        "id": "austria",
+        "name": "Austria"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537417,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-06-28T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537423,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-06-29T17:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537415,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-06-29T20:30:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537418,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-06-30T01:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537424,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-06-30T17:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537416,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-06-30T21:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537425,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-07-01T01:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537426,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-07-01T16:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537422,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-07-01T20:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537421,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-07-02T00:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537420,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-07-02T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537419,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-07-02T23:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537429,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-07-03T03:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537428,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-07-03T18:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537427,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-07-03T22:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537430,
+      "stage": "LAST_32",
+      "group": null,
+      "utcDate": "2026-07-04T01:30:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537376,
+      "stage": "LAST_16",
+      "group": null,
+      "utcDate": "2026-07-04T17:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537375,
+      "stage": "LAST_16",
+      "group": null,
+      "utcDate": "2026-07-04T21:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537377,
+      "stage": "LAST_16",
+      "group": null,
+      "utcDate": "2026-07-05T20:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537378,
+      "stage": "LAST_16",
+      "group": null,
+      "utcDate": "2026-07-06T00:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537379,
+      "stage": "LAST_16",
+      "group": null,
+      "utcDate": "2026-07-06T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537380,
+      "stage": "LAST_16",
+      "group": null,
+      "utcDate": "2026-07-07T00:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537381,
+      "stage": "LAST_16",
+      "group": null,
+      "utcDate": "2026-07-07T16:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537382,
+      "stage": "LAST_16",
+      "group": null,
+      "utcDate": "2026-07-07T20:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537383,
+      "stage": "QUARTER_FINALS",
+      "group": null,
+      "utcDate": "2026-07-09T20:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537384,
+      "stage": "QUARTER_FINALS",
+      "group": null,
+      "utcDate": "2026-07-10T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537385,
+      "stage": "QUARTER_FINALS",
+      "group": null,
+      "utcDate": "2026-07-11T21:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537386,
+      "stage": "QUARTER_FINALS",
+      "group": null,
+      "utcDate": "2026-07-12T01:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537387,
+      "stage": "SEMI_FINALS",
+      "group": null,
+      "utcDate": "2026-07-14T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537388,
+      "stage": "SEMI_FINALS",
+      "group": null,
+      "utcDate": "2026-07-15T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537389,
+      "stage": "THIRD_PLACE",
+      "group": null,
+      "utcDate": "2026-07-18T21:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    },
+    {
+      "id": 537390,
+      "stage": "FINAL",
+      "group": null,
+      "utcDate": "2026-07-19T19:00:00Z",
+      "status": "TIMED",
+      "home": {
+        "id": null,
+        "name": "TBD"
+      },
+      "away": {
+        "id": null,
+        "name": "TBD"
+      },
+      "winner": null,
+      "duration": "REGULAR",
+      "goalsHome": null,
+      "goalsAway": null,
+      "penalties": null
+    }
+  ],
+  "scorers": [
+    {
+      "player": "Julián Quiñones",
+      "team": "Mexico",
+      "teamId": "mexico",
+      "goals": 1,
+      "assists": null
+    },
+    {
+      "player": "Raúl Jiménez",
+      "team": "Mexico",
+      "teamId": "mexico",
+      "goals": 1,
+      "assists": null
+    }
+  ],
   "unmatchedTeams": []
 }
