@@ -128,6 +128,29 @@ window.POOL_PLAYERS = [
     ],
     goldenBoot: null,
   },
+  {
+    name: "Oliver",
+    teams: [
+      "france", "england",       // tier 1
+      "germany", "colombia",     // tier 2
+      "turkiye", "uruguay",      // tier 3
+      "algeria", "scotland",     // tier 4
+      "iran", "saudiarabia",     // tier 5
+    ],
+    goldenBoot: null,
+  },
+  {
+    name: "Kinji",
+    teams: [
+      "spain", "france",          // tier 1
+      "netherlands", "japan",     // tier 2
+      "morocco", "croatia",       // tier 3
+      "senegal", "scotland",      // tier 4
+      "southkorea", "capeverde",  // tier 5
+    ],
+    goldenBoot: null,
+  },
+];
 ];
 
 // ============================================================
