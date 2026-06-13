@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T19:58:52.881Z",
+  "updatedAt": "2026-06-13T21:14:19.381Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -87,7 +87,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "utcDate": "2026-06-13T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "qatar",
         "name": "Qatar"
@@ -96,9 +96,9 @@
         "id": "switzerland",
         "name": "Switzerland"
       },
-      "winner": "away",
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": 0,
+      "goalsHome": 1,
       "goalsAway": 1,
       "penalties": null
     },
@@ -2158,6 +2158,13 @@
       "player": "Breel Embolo",
       "team": "Switzerland",
       "teamId": "switzerland",
+      "goals": 1,
+      "assists": null
+    },
+    {
+      "player": "Boualem Khoukhi",
+      "team": "Qatar",
+      "teamId": "qatar",
       "goals": 1,
       "assists": null
     }
