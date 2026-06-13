@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T23:57:33.103Z",
+  "updatedAt": "2026-06-13T06:44:48.158Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -67,7 +67,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
       "utcDate": "2026-06-13T01:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "usa",
         "name": "United States"
@@ -76,10 +76,10 @@
         "id": "paraguay",
         "name": "Paraguay"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 4,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -2085,6 +2085,13 @@
   ],
   "scorers": [
     {
+      "player": "Folarin Balogun",
+      "team": "United States",
+      "teamId": "usa",
+      "goals": 2,
+      "assists": null
+    },
+    {
       "player": "Julián Quiñones",
       "team": "Mexico",
       "teamId": "mexico",
@@ -2130,6 +2137,20 @@
       "player": "Cyle Larin",
       "team": "Canada",
       "teamId": "canada",
+      "goals": 1,
+      "assists": null
+    },
+    {
+      "player": "Mauricio",
+      "team": "Paraguay",
+      "teamId": "paraguay",
+      "goals": 1,
+      "assists": null
+    },
+    {
+      "player": "Gio Reyna",
+      "team": "United States",
+      "teamId": "usa",
       "goals": 1,
       "assists": null
     }
