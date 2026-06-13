@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T18:01:53.156Z",
+  "updatedAt": "2026-06-13T19:58:52.881Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -87,7 +87,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "utcDate": "2026-06-13T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "qatar",
         "name": "Qatar"
@@ -96,10 +96,10 @@
         "id": "switzerland",
         "name": "Switzerland"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -2151,6 +2151,13 @@
       "player": "Gio Reyna",
       "team": "United States",
       "teamId": "usa",
+      "goals": 1,
+      "assists": null
+    },
+    {
+      "player": "Breel Embolo",
+      "team": "Switzerland",
+      "teamId": "switzerland",
       "goals": 1,
       "assists": null
     }
