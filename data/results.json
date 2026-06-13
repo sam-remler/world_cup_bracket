@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T22:34:23.818Z",
+  "updatedAt": "2026-06-13T23:55:26.315Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -56,10 +56,10 @@
         "id": "bosnia",
         "name": "Bosnia-Herzegovina"
       },
-      "winner": "draw",
+      "winner": null,
       "duration": "REGULAR",
-      "goalsHome": 1,
-      "goalsAway": 1,
+      "goalsHome": null,
+      "goalsAway": null,
       "penalties": null
     },
     {
@@ -116,9 +116,9 @@
         "id": "morocco",
         "name": "Morocco"
       },
-      "winner": "away",
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": 0,
+      "goalsHome": 1,
       "goalsAway": 1,
       "penalties": null
     },
@@ -2172,6 +2172,13 @@
       "player": "Ismael Saibari",
       "team": "Morocco",
       "teamId": "morocco",
+      "goals": 1,
+      "assists": null
+    },
+    {
+      "player": "Vinicius Junior",
+      "team": "Brazil",
+      "teamId": "brazil",
       "goals": 1,
       "assists": null
     }
