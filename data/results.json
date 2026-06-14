@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T10:35:20.828Z",
+  "updatedAt": "2026-06-14T12:55:52.658Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -56,10 +56,10 @@
         "id": "bosnia",
         "name": "Bosnia-Herzegovina"
       },
-      "winner": "draw",
+      "winner": null,
       "duration": "REGULAR",
-      "goalsHome": 1,
-      "goalsAway": 1,
+      "goalsHome": null,
+      "goalsAway": null,
       "penalties": null
     },
     {
@@ -207,7 +207,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "utcDate": "2026-06-14T23:00:00Z",
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "home": {
         "id": "ivorycoast",
         "name": "Ivory Coast"
