@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T18:06:36.179Z",
+  "updatedAt": "2026-06-14T20:02:43.718Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -167,7 +167,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "utcDate": "2026-06-14T17:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "germany",
         "name": "Germany"
@@ -178,7 +178,7 @@
       },
       "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 3,
+      "goalsHome": 7,
       "goalsAway": 1,
       "penalties": null
     },
@@ -2092,6 +2092,13 @@
       "assists": null
     },
     {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "teamId": "germany",
+      "goals": 2,
+      "assists": null
+    },
+    {
       "player": "Julián Quiñones",
       "team": "Mexico",
       "teamId": "mexico",
@@ -2179,13 +2186,6 @@
       "player": "Vinicius Junior",
       "team": "Brazil",
       "teamId": "brazil",
-      "goals": 1,
-      "assists": null
-    },
-    {
-      "player": "John McGinn",
-      "team": "Scotland",
-      "teamId": "scotland",
       "goals": 1,
       "assists": null
     }
