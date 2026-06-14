@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T16:51:27.288Z",
+  "updatedAt": "2026-06-14T18:06:36.179Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -167,7 +167,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "utcDate": "2026-06-14T17:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "home": {
         "id": "germany",
         "name": "Germany"
@@ -176,10 +176,10 @@
         "id": "curacao",
         "name": "Curaçao"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 3,
+      "goalsAway": 1,
       "penalties": null
     },
     {
