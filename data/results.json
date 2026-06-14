@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T20:02:43.718Z",
+  "updatedAt": "2026-06-14T21:47:16.137Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -187,7 +187,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "utcDate": "2026-06-14T20:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "netherlands",
         "name": "Netherlands"
@@ -196,10 +196,10 @@
         "id": "japan",
         "name": "Japan"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 2,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -207,7 +207,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "utcDate": "2026-06-14T23:00:00Z",
-      "status": "TIMED",
+      "status": "SCHEDULED",
       "home": {
         "id": "ivorycoast",
         "name": "Ivory Coast"
