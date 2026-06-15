@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T16:53:13.855Z",
+  "updatedAt": "2026-06-15T20:19:27.763Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -247,7 +247,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
       "utcDate": "2026-06-15T16:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "spain",
         "name": "Spain"
@@ -267,7 +267,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
       "utcDate": "2026-06-15T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "belgium",
         "name": "Belgium"
@@ -276,10 +276,10 @@
         "id": "egypt",
         "name": "Egypt"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 1,
       "penalties": null
     },
     {
