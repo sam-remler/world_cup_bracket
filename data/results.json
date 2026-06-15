@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T00:04:44.882Z",
+  "updatedAt": "2026-06-15T05:33:21.591Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -207,7 +207,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "utcDate": "2026-06-14T23:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "ivorycoast",
         "name": "Ivory Coast"
@@ -216,10 +216,10 @@
         "id": "ecuador",
         "name": "Ecuador"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -227,7 +227,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "utcDate": "2026-06-15T02:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "sweden",
         "name": "Sweden"
@@ -236,10 +236,10 @@
         "id": "tunisia",
         "name": "Tunisia"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 5,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -2099,6 +2099,13 @@
       "assists": null
     },
     {
+      "player": "Yasin Ayari",
+      "team": "Sweden",
+      "teamId": "sweden",
+      "goals": 2,
+      "assists": null
+    },
+    {
       "player": "Julián Quiñones",
       "team": "Mexico",
       "teamId": "mexico",
@@ -2179,13 +2186,6 @@
       "player": "Ismael Saibari",
       "team": "Morocco",
       "teamId": "morocco",
-      "goals": 1,
-      "assists": null
-    },
-    {
-      "player": "Vinicius Junior",
-      "team": "Brazil",
-      "teamId": "brazil",
       "goals": 1,
       "assists": null
     }
