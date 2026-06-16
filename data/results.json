@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T19:26:10.457Z",
+  "updatedAt": "2026-06-16T21:58:48.676Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -327,7 +327,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-16T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "france",
         "name": "France"
@@ -336,10 +336,10 @@
         "id": "senegal",
         "name": "Senegal"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsHome": 3,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -2113,6 +2113,13 @@
       "assists": null
     },
     {
+      "player": "Kylian Mbappé",
+      "team": "France",
+      "teamId": "france",
+      "goals": 2,
+      "assists": null
+    },
+    {
       "player": "Julián Quiñones",
       "team": "Mexico",
       "teamId": "mexico",
@@ -2179,13 +2186,6 @@
       "player": "Breel Embolo",
       "team": "Switzerland",
       "teamId": "switzerland",
-      "goals": 1,
-      "assists": null
-    },
-    {
-      "player": "Boualem Khoukhi",
-      "team": "Qatar",
-      "teamId": "qatar",
       "goals": 1,
       "assists": null
     }
