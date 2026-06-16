@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T00:21:08.840Z",
+  "updatedAt": "2026-06-16T05:41:18.369Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -307,7 +307,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
       "utcDate": "2026-06-16T01:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "iran",
         "name": "Iran"
@@ -316,10 +316,10 @@
         "id": "newzealand",
         "name": "New Zealand"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 2,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -2106,6 +2106,13 @@
       "assists": null
     },
     {
+      "player": "Elijah Just",
+      "team": "New Zealand",
+      "teamId": "newzealand",
+      "goals": 2,
+      "assists": null
+    },
+    {
       "player": "Julián Quiñones",
       "team": "Mexico",
       "teamId": "mexico",
@@ -2179,13 +2186,6 @@
       "player": "Boualem Khoukhi",
       "team": "Qatar",
       "teamId": "qatar",
-      "goals": 1,
-      "assists": null
-    },
-    {
-      "player": "Ismael Saibari",
-      "team": "Morocco",
-      "teamId": "morocco",
       "goals": 1,
       "assists": null
     }
