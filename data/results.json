@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T21:58:48.676Z",
+  "updatedAt": "2026-06-16T23:22:57.112Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -347,7 +347,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-16T22:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "iraq",
         "name": "Iraq"
@@ -356,10 +356,10 @@
         "id": "norway",
         "name": "Norway"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -2120,6 +2120,13 @@
       "assists": null
     },
     {
+      "player": "Erling Haaland",
+      "team": "Norway",
+      "teamId": "norway",
+      "goals": 2,
+      "assists": null
+    },
+    {
       "player": "Julián Quiñones",
       "team": "Mexico",
       "teamId": "mexico",
@@ -2179,13 +2186,6 @@
       "player": "Gio Reyna",
       "team": "United States",
       "teamId": "usa",
-      "goals": 1,
-      "assists": null
-    },
-    {
-      "player": "Breel Embolo",
-      "team": "Switzerland",
-      "teamId": "switzerland",
       "goals": 1,
       "assists": null
     }
