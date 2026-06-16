@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T22:32:02.257Z",
+  "updatedAt": "2026-06-16T00:21:08.840Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -287,7 +287,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
       "utcDate": "2026-06-15T22:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "saudiarabia",
         "name": "Saudi Arabia"
@@ -298,8 +298,8 @@
       },
       "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsHome": 1,
+      "goalsAway": 1,
       "penalties": null
     },
     {
