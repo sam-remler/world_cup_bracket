@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T14:45:57.645Z",
+  "updatedAt": "2026-06-17T17:42:17.508Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -407,7 +407,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
       "utcDate": "2026-06-17T17:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "portugal",
         "name": "Portugal"
@@ -416,10 +416,10 @@
         "id": "drcongo",
         "name": "Congo DR"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 0,
       "penalties": null
     },
     {
