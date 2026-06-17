@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T19:55:38.399Z",
+  "updatedAt": "2026-06-17T21:51:54.596Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -427,7 +427,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
       "utcDate": "2026-06-17T20:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "england",
         "name": "England"
@@ -436,10 +436,10 @@
         "id": "croatia",
         "name": "Croatia"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 3,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -2134,6 +2134,13 @@
       "assists": null
     },
     {
+      "player": "Harry Kane",
+      "team": "England",
+      "teamId": "england",
+      "goals": 2,
+      "assists": null
+    },
+    {
       "player": "Julián Quiñones",
       "team": "Mexico",
       "teamId": "mexico",
@@ -2179,13 +2186,6 @@
       "player": "Cyle Larin",
       "team": "Canada",
       "teamId": "canada",
-      "goals": 1,
-      "assists": null
-    },
-    {
-      "player": "Mauricio",
-      "team": "Paraguay",
-      "teamId": "paraguay",
       "goals": 1,
       "assists": null
     }
