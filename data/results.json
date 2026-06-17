@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T23:22:57.112Z",
+  "updatedAt": "2026-06-17T01:46:08.349Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -347,7 +347,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-16T22:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "iraq",
         "name": "Iraq"
@@ -359,7 +359,7 @@
       "winner": "away",
       "duration": "REGULAR",
       "goalsHome": 1,
-      "goalsAway": 2,
+      "goalsAway": 4,
       "penalties": null
     },
     {
@@ -367,7 +367,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
       "utcDate": "2026-06-17T01:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "argentina",
         "name": "Argentina"
@@ -376,10 +376,10 @@
         "id": "algeria",
         "name": "Algeria"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 0,
       "penalties": null
     },
     {
