@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T23:14:30.778Z",
+  "updatedAt": "2026-06-18T01:59:23.775Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -447,7 +447,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
       "utcDate": "2026-06-17T23:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "ghana",
         "name": "Ghana"
@@ -456,9 +456,9 @@
         "id": "panama",
         "name": "Panama"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
+      "goalsHome": 1,
       "goalsAway": 0,
       "penalties": null
     },
