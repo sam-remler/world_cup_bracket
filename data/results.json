@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T00:08:33.129Z",
+  "updatedAt": "2026-06-19T05:30:45.419Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -547,7 +547,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
       "utcDate": "2026-06-19T01:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "mexico",
         "name": "Mexico"
@@ -556,10 +556,10 @@
         "id": "southkorea",
         "name": "South Korea"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 0,
       "penalties": null
     },
     {
