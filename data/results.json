@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T18:14:15.141Z",
+  "updatedAt": "2026-06-19T20:10:16.831Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -567,7 +567,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
       "utcDate": "2026-06-19T19:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "home": {
         "id": "usa",
         "name": "United States"
@@ -576,10 +576,10 @@
         "id": "australia",
         "name": "Australia"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 2,
+      "goalsAway": 0,
       "penalties": null
     },
     {
