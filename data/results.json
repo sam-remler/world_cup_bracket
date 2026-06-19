@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T22:28:17.249Z",
+  "updatedAt": "2026-06-19T00:08:33.129Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -527,7 +527,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "utcDate": "2026-06-18T22:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "canada",
         "name": "Canada"
@@ -538,7 +538,7 @@
       },
       "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 1,
+      "goalsHome": 6,
       "goalsAway": 0,
       "penalties": null
     },
@@ -2092,6 +2092,13 @@
       "assists": null
     },
     {
+      "player": "Jonathan David",
+      "team": "Canada",
+      "teamId": "canada",
+      "goals": 3,
+      "assists": null
+    },
+    {
       "player": "Cyle Larin",
       "team": "Canada",
       "teamId": "canada",
@@ -2181,13 +2188,6 @@
       "teamId": "southkorea",
       "goals": 1,
       "assists": 1
-    },
-    {
-      "player": "Hyun-Gyu Oh",
-      "team": "South Korea",
-      "teamId": "southkorea",
-      "goals": 1,
-      "assists": null
     }
   ],
   "unmatchedTeams": []
