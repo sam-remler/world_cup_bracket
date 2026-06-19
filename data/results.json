@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T20:10:16.831Z",
+  "updatedAt": "2026-06-19T21:40:16.420Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -567,7 +567,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
       "utcDate": "2026-06-19T19:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "usa",
         "name": "United States"
