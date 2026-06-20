@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T21:43:56.578Z",
+  "updatedAt": "2026-06-20T22:56:01.382Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -667,7 +667,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "utcDate": "2026-06-20T20:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "germany",
         "name": "Germany"
@@ -676,9 +676,9 @@
         "id": "ivorycoast",
         "name": "Ivory Coast"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 1,
+      "goalsHome": 2,
       "goalsAway": 1,
       "penalties": null
     },
@@ -2085,6 +2085,13 @@
   ],
   "scorers": [
     {
+      "player": "Deniz Undav",
+      "team": "Germany",
+      "teamId": "germany",
+      "goals": 3,
+      "assists": 2
+    },
+    {
       "player": "Lionel Messi",
       "team": "Argentina",
       "teamId": "argentina",
@@ -2132,13 +2139,6 @@
       "teamId": "germany",
       "goals": 2,
       "assists": null
-    },
-    {
-      "player": "Deniz Undav",
-      "team": "Germany",
-      "teamId": "germany",
-      "goals": 2,
-      "assists": 2
     },
     {
       "player": "Yasin Ayari",
