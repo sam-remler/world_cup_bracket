@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T20:00:28.589Z",
+  "updatedAt": "2026-06-20T21:43:56.578Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -667,7 +667,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "utcDate": "2026-06-20T20:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "germany",
         "name": "Germany"
@@ -676,10 +676,10 @@
         "id": "ivorycoast",
         "name": "Ivory Coast"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -2134,6 +2134,13 @@
       "assists": null
     },
     {
+      "player": "Deniz Undav",
+      "team": "Germany",
+      "teamId": "germany",
+      "goals": 2,
+      "assists": 2
+    },
+    {
       "player": "Yasin Ayari",
       "team": "Sweden",
       "teamId": "sweden",
@@ -2179,13 +2186,6 @@
       "player": "Matheus Cunha",
       "team": "Brazil",
       "teamId": "brazil",
-      "goals": 2,
-      "assists": null
-    },
-    {
-      "player": "Brian Brobbey",
-      "team": "Netherlands",
-      "teamId": "netherlands",
       "goals": 2,
       "assists": null
     }
