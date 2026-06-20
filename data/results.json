@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T13:21:37.248Z",
+  "updatedAt": "2026-06-20T15:19:38.866Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -56,10 +56,10 @@
         "id": "bosnia",
         "name": "Bosnia-Herzegovina"
       },
-      "winner": "draw",
+      "winner": null,
       "duration": "REGULAR",
-      "goalsHome": 1,
-      "goalsAway": 1,
+      "goalsHome": null,
+      "goalsAway": null,
       "penalties": null
     },
     {
