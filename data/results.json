@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T18:08:10.172Z",
+  "updatedAt": "2026-06-20T20:00:28.589Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -56,10 +56,10 @@
         "id": "bosnia",
         "name": "Bosnia-Herzegovina"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -647,7 +647,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "utcDate": "2026-06-20T17:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "netherlands",
         "name": "Netherlands"
@@ -658,8 +658,8 @@
       },
       "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 2,
-      "goalsAway": 0,
+      "goalsHome": 5,
+      "goalsAway": 1,
       "penalties": null
     },
     {
