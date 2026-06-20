@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T16:58:19.185Z",
+  "updatedAt": "2026-06-20T18:08:10.172Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -56,10 +56,10 @@
         "id": "bosnia",
         "name": "Bosnia-Herzegovina"
       },
-      "winner": "draw",
+      "winner": null,
       "duration": "REGULAR",
-      "goalsHome": 1,
-      "goalsAway": 1,
+      "goalsHome": null,
+      "goalsAway": null,
       "penalties": null
     },
     {
@@ -647,7 +647,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "utcDate": "2026-06-20T17:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "home": {
         "id": "netherlands",
         "name": "Netherlands"
@@ -656,10 +656,10 @@
         "id": "sweden",
         "name": "Sweden"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 2,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -2183,10 +2183,10 @@
       "assists": null
     },
     {
-      "player": "Julián Quiñones",
-      "team": "Mexico",
-      "teamId": "mexico",
-      "goals": 1,
+      "player": "Brian Brobbey",
+      "team": "Netherlands",
+      "teamId": "netherlands",
+      "goals": 2,
       "assists": null
     }
   ],
