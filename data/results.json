@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T21:49:07.762Z",
+  "updatedAt": "2026-06-21T22:57:49.142Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -767,7 +767,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
       "utcDate": "2026-06-21T22:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "uruguay",
         "name": "Uruguay"
@@ -776,10 +776,10 @@
         "id": "capeverde",
         "name": "Cape Verde Islands"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -2155,6 +2155,13 @@
       "assists": null
     },
     {
+      "player": "Maximiliano Araújo",
+      "team": "Uruguay",
+      "teamId": "uruguay",
+      "goals": 2,
+      "assists": 1
+    },
+    {
       "player": "Elijah Just",
       "team": "New Zealand",
       "teamId": "newzealand",
@@ -2179,13 +2186,6 @@
       "player": "Harry Kane",
       "team": "England",
       "teamId": "england",
-      "goals": 2,
-      "assists": null
-    },
-    {
-      "player": "Johan Manzambi",
-      "team": "Switzerland",
-      "teamId": "switzerland",
       "goals": 2,
       "assists": null
     }
