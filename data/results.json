@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T20:20:47.244Z",
+  "updatedAt": "2026-06-21T21:49:07.762Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -738,7 +738,7 @@
       },
       "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 5,
+      "goalsHome": 4,
       "goalsAway": 0,
       "penalties": null
     },
@@ -747,7 +747,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_G",
       "utcDate": "2026-06-21T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "belgium",
         "name": "Belgium"
