@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T23:58:49.536Z",
+  "updatedAt": "2026-06-21T03:59:29.431Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -687,7 +687,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "utcDate": "2026-06-21T00:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "ecuador",
         "name": "Ecuador"
@@ -696,10 +696,10 @@
         "id": "curacao",
         "name": "Curaçao"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
