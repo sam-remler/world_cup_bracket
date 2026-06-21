@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T03:59:29.431Z",
+  "updatedAt": "2026-06-21T08:35:04.172Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -707,7 +707,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "utcDate": "2026-06-21T04:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "tunisia",
         "name": "Tunisia"
@@ -716,10 +716,10 @@
         "id": "japan",
         "name": "Japan"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 4,
       "penalties": null
     },
     {
@@ -2141,6 +2141,13 @@
       "assists": null
     },
     {
+      "player": "Daichi Kamada",
+      "team": "Japan",
+      "teamId": "japan",
+      "goals": 2,
+      "assists": null
+    },
+    {
       "player": "Yasin Ayari",
       "team": "Sweden",
       "teamId": "sweden",
@@ -2179,13 +2186,6 @@
       "player": "Johan Manzambi",
       "team": "Switzerland",
       "teamId": "switzerland",
-      "goals": 2,
-      "assists": null
-    },
-    {
-      "player": "Matheus Cunha",
-      "team": "Brazil",
-      "teamId": "brazil",
       "goals": 2,
       "assists": null
     }
