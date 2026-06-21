@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T17:15:23.567Z",
+  "updatedAt": "2026-06-21T18:56:27.000Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -56,10 +56,10 @@
         "id": "bosnia",
         "name": "Bosnia-Herzegovina"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -727,7 +727,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
       "utcDate": "2026-06-21T16:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "spain",
         "name": "Spain"
@@ -738,7 +738,7 @@
       },
       "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 3,
+      "goalsHome": 5,
       "goalsAway": 0,
       "penalties": null
     },
