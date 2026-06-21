@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T15:43:28.940Z",
+  "updatedAt": "2026-06-21T17:15:23.567Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -56,10 +56,10 @@
         "id": "bosnia",
         "name": "Bosnia-Herzegovina"
       },
-      "winner": "draw",
+      "winner": null,
       "duration": "REGULAR",
-      "goalsHome": 1,
-      "goalsAway": 1,
+      "goalsHome": null,
+      "goalsAway": null,
       "penalties": null
     },
     {
@@ -727,7 +727,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
       "utcDate": "2026-06-21T16:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "spain",
         "name": "Spain"
@@ -736,10 +736,10 @@
         "id": "saudiarabia",
         "name": "Saudi Arabia"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 3,
+      "goalsAway": 0,
       "penalties": null
     },
     {
