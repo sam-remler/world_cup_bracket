@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T21:53:43.506Z",
+  "updatedAt": "2026-06-22T23:10:23.274Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -827,7 +827,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-22T21:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "home": {
         "id": "france",
         "name": "France"
