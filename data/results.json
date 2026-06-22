@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T19:52:18.090Z",
+  "updatedAt": "2026-06-22T21:53:43.506Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -827,7 +827,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-22T21:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "france",
         "name": "France"
@@ -836,10 +836,10 @@
         "id": "iraq",
         "name": "Iraq"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -2099,6 +2099,13 @@
       "assists": 2
     },
     {
+      "player": "Kylian Mbappé",
+      "team": "France",
+      "teamId": "france",
+      "goals": 3,
+      "assists": null
+    },
+    {
       "player": "Jonathan David",
       "team": "Canada",
       "teamId": "canada",
@@ -2165,13 +2172,6 @@
       "player": "Elijah Just",
       "team": "New Zealand",
       "teamId": "newzealand",
-      "goals": 2,
-      "assists": null
-    },
-    {
-      "player": "Kylian Mbappé",
-      "team": "France",
-      "teamId": "france",
       "goals": 2,
       "assists": null
     },
