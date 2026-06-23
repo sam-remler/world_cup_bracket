@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T23:10:23.274Z",
+  "updatedAt": "2026-06-23T01:27:17.043Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -827,7 +827,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-22T21:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "france",
         "name": "France"
@@ -838,7 +838,7 @@
       },
       "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 1,
+      "goalsHome": 3,
       "goalsAway": 0,
       "penalties": null
     },
@@ -847,7 +847,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-23T00:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "norway",
         "name": "Norway"
@@ -856,10 +856,10 @@
         "id": "senegal",
         "name": "Senegal"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 3,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -2092,18 +2092,25 @@
       "assists": null
     },
     {
+      "player": "Kylian Mbappé",
+      "team": "France",
+      "teamId": "france",
+      "goals": 4,
+      "assists": null
+    },
+    {
+      "player": "Erling Haaland",
+      "team": "Norway",
+      "teamId": "norway",
+      "goals": 4,
+      "assists": null
+    },
+    {
       "player": "Deniz Undav",
       "team": "Germany",
       "teamId": "germany",
       "goals": 3,
       "assists": 2
-    },
-    {
-      "player": "Kylian Mbappé",
-      "team": "France",
-      "teamId": "france",
-      "goals": 3,
-      "assists": null
     },
     {
       "player": "Jonathan David",
@@ -2172,13 +2179,6 @@
       "player": "Elijah Just",
       "team": "New Zealand",
       "teamId": "newzealand",
-      "goals": 2,
-      "assists": null
-    },
-    {
-      "player": "Erling Haaland",
-      "team": "Norway",
-      "teamId": "norway",
       "goals": 2,
       "assists": null
     },
