@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T01:27:17.043Z",
+  "updatedAt": "2026-06-23T05:36:23.073Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -847,7 +847,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-23T00:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "norway",
         "name": "Norway"
@@ -859,7 +859,7 @@
       "winner": "home",
       "duration": "REGULAR",
       "goalsHome": 3,
-      "goalsAway": 1,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -867,7 +867,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
       "utcDate": "2026-06-23T03:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "jordan",
         "name": "Jordan"
@@ -876,10 +876,10 @@
         "id": "algeria",
         "name": "Algeria"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 2,
       "penalties": null
     },
     {
