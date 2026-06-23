@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T22:42:42.742Z",
+  "updatedAt": "2026-06-23T23:45:25.608Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -927,7 +927,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
       "utcDate": "2026-06-23T23:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "home": {
         "id": "panama",
         "name": "Panama"
@@ -936,10 +936,10 @@
         "id": "croatia",
         "name": "Croatia"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
