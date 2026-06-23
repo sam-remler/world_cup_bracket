@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T21:10:18.179Z",
+  "updatedAt": "2026-06-23T22:42:42.742Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -907,7 +907,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
       "utcDate": "2026-06-23T20:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "england",
         "name": "England"
@@ -1489,8 +1489,8 @@
       "utcDate": "2026-06-29T20:30:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "germany",
+        "name": "Germany"
       },
       "away": {
         "id": null,
@@ -1569,8 +1569,8 @@
       "utcDate": "2026-07-01T01:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "mexico",
+        "name": "Mexico"
       },
       "away": {
         "id": null,
@@ -1629,8 +1629,8 @@
       "utcDate": "2026-07-02T00:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "usa",
+        "name": "United States"
       },
       "away": {
         "id": null,
