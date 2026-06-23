@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T11:50:29.391Z",
+  "updatedAt": "2026-06-23T14:16:04.798Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2155,6 +2155,13 @@
       "assists": null
     },
     {
+      "player": "Crysencio Summerville",
+      "team": "Netherlands",
+      "teamId": "netherlands",
+      "goals": 2,
+      "assists": 1
+    },
+    {
       "player": "Daichi Kamada",
       "team": "Japan",
       "teamId": "japan",
@@ -2179,13 +2186,6 @@
       "player": "Elijah Just",
       "team": "New Zealand",
       "teamId": "newzealand",
-      "goals": 2,
-      "assists": null
-    },
-    {
-      "player": "Harry Kane",
-      "team": "England",
-      "teamId": "england",
       "goals": 2,
       "assists": null
     }
