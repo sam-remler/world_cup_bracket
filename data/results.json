@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T17:24:12.488Z",
+  "updatedAt": "2026-06-24T19:07:08.562Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -56,10 +56,10 @@
         "id": "bosnia",
         "name": "Bosnia-Herzegovina"
       },
-      "winner": "draw",
+      "winner": null,
       "duration": "REGULAR",
-      "goalsHome": 1,
-      "goalsAway": 1,
+      "goalsHome": null,
+      "goalsAway": null,
       "penalties": null
     },
     {
@@ -967,7 +967,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "utcDate": "2026-06-24T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "switzerland",
         "name": "Switzerland"
@@ -976,10 +976,10 @@
         "id": "canada",
         "name": "Canada"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -987,7 +987,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "utcDate": "2026-06-24T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "bosnia",
         "name": "Bosnia-Herzegovina"
@@ -996,10 +996,10 @@
         "id": "qatar",
         "name": "Qatar"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -1489,8 +1489,8 @@
       "utcDate": "2026-06-29T20:30:00Z",
       "status": "TIMED",
       "home": {
-        "id": "germany",
-        "name": "Germany"
+        "id": null,
+        "name": "TBD"
       },
       "away": {
         "id": null,
@@ -1569,8 +1569,8 @@
       "utcDate": "2026-07-01T01:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": "mexico",
-        "name": "Mexico"
+        "id": null,
+        "name": "TBD"
       },
       "away": {
         "id": null,
@@ -1629,8 +1629,8 @@
       "utcDate": "2026-07-02T00:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": "usa",
-        "name": "United States"
+        "id": null,
+        "name": "TBD"
       },
       "away": {
         "id": null,
@@ -1729,8 +1729,8 @@
       "utcDate": "2026-07-03T22:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": "argentina",
-        "name": "Argentina"
+        "id": null,
+        "name": "TBD"
       },
       "away": {
         "id": null,
