@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T06:04:03.270Z",
+  "updatedAt": "2026-06-24T09:54:29.005Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1489,8 +1489,8 @@
       "utcDate": "2026-06-29T20:30:00Z",
       "status": "TIMED",
       "home": {
-        "id": "germany",
-        "name": "Germany"
+        "id": null,
+        "name": "TBD"
       },
       "away": {
         "id": null,
@@ -1569,8 +1569,8 @@
       "utcDate": "2026-07-01T01:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": "mexico",
-        "name": "Mexico"
+        "id": null,
+        "name": "TBD"
       },
       "away": {
         "id": null,
@@ -1629,8 +1629,8 @@
       "utcDate": "2026-07-02T00:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": "usa",
-        "name": "United States"
+        "id": null,
+        "name": "TBD"
       },
       "away": {
         "id": null,
@@ -1729,8 +1729,8 @@
       "utcDate": "2026-07-03T22:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": "argentina",
-        "name": "Argentina"
+        "id": null,
+        "name": "TBD"
       },
       "away": {
         "id": null,
