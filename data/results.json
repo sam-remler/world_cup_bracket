@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T19:07:08.562Z",
+  "updatedAt": "2026-06-24T21:04:06.507Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -56,10 +56,10 @@
         "id": "bosnia",
         "name": "Bosnia-Herzegovina"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -967,7 +967,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "utcDate": "2026-06-24T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "switzerland",
         "name": "Switzerland"
@@ -976,10 +976,10 @@
         "id": "canada",
         "name": "Canada"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsHome": 2,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -987,7 +987,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_B",
       "utcDate": "2026-06-24T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "bosnia",
         "name": "Bosnia-Herzegovina"
@@ -996,10 +996,10 @@
         "id": "qatar",
         "name": "Qatar"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsHome": 3,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -1489,8 +1489,8 @@
       "utcDate": "2026-06-29T20:30:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "germany",
+        "name": "Germany"
       },
       "away": {
         "id": null,
@@ -1569,8 +1569,8 @@
       "utcDate": "2026-07-01T01:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "mexico",
+        "name": "Mexico"
       },
       "away": {
         "id": null,
@@ -1629,8 +1629,8 @@
       "utcDate": "2026-07-02T00:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "usa",
+        "name": "United States"
       },
       "away": {
         "id": null,
@@ -1729,8 +1729,8 @@
       "utcDate": "2026-07-03T22:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "argentina",
+        "name": "Argentina"
       },
       "away": {
         "id": null,
@@ -2113,6 +2113,13 @@
       "assists": 2
     },
     {
+      "player": "Johan Manzambi",
+      "team": "Switzerland",
+      "teamId": "switzerland",
+      "goals": 3,
+      "assists": 1
+    },
+    {
       "player": "Jonathan David",
       "team": "Canada",
       "teamId": "canada",
@@ -2181,13 +2188,6 @@
       "teamId": "uruguay",
       "goals": 2,
       "assists": 1
-    },
-    {
-      "player": "Elijah Just",
-      "team": "New Zealand",
-      "teamId": "newzealand",
-      "goals": 2,
-      "assists": null
     }
   ],
   "unmatchedTeams": []
