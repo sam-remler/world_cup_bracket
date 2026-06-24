@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T21:04:06.507Z",
+  "updatedAt": "2026-06-24T22:43:18.833Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1007,7 +1007,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
       "utcDate": "2026-06-24T22:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "home": {
         "id": "morocco",
         "name": "Morocco"
@@ -1016,10 +1016,10 @@
         "id": "haiti",
         "name": "Haiti"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -1027,7 +1027,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
       "utcDate": "2026-06-24T22:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "home": {
         "id": "scotland",
         "name": "Scotland"
@@ -1036,10 +1036,10 @@
         "id": "brazil",
         "name": "Brazil"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -2106,6 +2106,13 @@
       "assists": null
     },
     {
+      "player": "Vinicius Junior",
+      "team": "Brazil",
+      "teamId": "brazil",
+      "goals": 3,
+      "assists": 1
+    },
+    {
       "player": "Deniz Undav",
       "team": "Germany",
       "teamId": "germany",
@@ -2146,13 +2153,6 @@
       "teamId": "morocco",
       "goals": 2,
       "assists": null
-    },
-    {
-      "player": "Vinicius Junior",
-      "team": "Brazil",
-      "teamId": "brazil",
-      "goals": 2,
-      "assists": 1
     },
     {
       "player": "Kai Havertz",
