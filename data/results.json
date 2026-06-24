@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T22:43:18.833Z",
+  "updatedAt": "2026-06-24T23:55:43.520Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1007,7 +1007,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
       "utcDate": "2026-06-24T22:00:00Z",
-      "status": "LIVE",
+      "status": "IN_PLAY",
       "home": {
         "id": "morocco",
         "name": "Morocco"
@@ -1016,10 +1016,10 @@
         "id": "haiti",
         "name": "Haiti"
       },
-      "winner": "away",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 1,
+      "goalsHome": 3,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -1027,7 +1027,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
       "utcDate": "2026-06-24T22:00:00Z",
-      "status": "LIVE",
+      "status": "PAUSED",
       "home": {
         "id": "scotland",
         "name": "Scotland"
@@ -1039,7 +1039,7 @@
       "winner": "away",
       "duration": "REGULAR",
       "goalsHome": 0,
-      "goalsAway": 2,
+      "goalsAway": 3,
       "penalties": null
     },
     {
@@ -2092,6 +2092,13 @@
       "assists": null
     },
     {
+      "player": "Vinicius Junior",
+      "team": "Brazil",
+      "teamId": "brazil",
+      "goals": 4,
+      "assists": 1
+    },
+    {
       "player": "Kylian Mbappé",
       "team": "France",
       "teamId": "france",
@@ -2106,11 +2113,11 @@
       "assists": null
     },
     {
-      "player": "Vinicius Junior",
-      "team": "Brazil",
-      "teamId": "brazil",
+      "player": "Ismael Saibari",
+      "team": "Morocco",
+      "teamId": "morocco",
       "goals": 3,
-      "assists": 1
+      "assists": null
     },
     {
       "player": "Deniz Undav",
@@ -2134,6 +2141,13 @@
       "assists": null
     },
     {
+      "player": "Matheus Cunha",
+      "team": "Brazil",
+      "teamId": "brazil",
+      "goals": 3,
+      "assists": null
+    },
+    {
       "player": "Cyle Larin",
       "team": "Canada",
       "teamId": "canada",
@@ -2144,13 +2158,6 @@
       "player": "Folarin Balogun",
       "team": "United States",
       "teamId": "usa",
-      "goals": 2,
-      "assists": null
-    },
-    {
-      "player": "Ismael Saibari",
-      "team": "Morocco",
-      "teamId": "morocco",
       "goals": 2,
       "assists": null
     },
@@ -2181,13 +2188,6 @@
       "teamId": "sweden",
       "goals": 2,
       "assists": null
-    },
-    {
-      "player": "Maximiliano Araújo",
-      "team": "Uruguay",
-      "teamId": "uruguay",
-      "goals": 2,
-      "assists": 1
     }
   ],
   "unmatchedTeams": []
