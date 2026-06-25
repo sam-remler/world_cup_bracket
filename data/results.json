@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T23:55:43.520Z",
+  "updatedAt": "2026-06-25T02:09:18.926Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1007,7 +1007,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
       "utcDate": "2026-06-24T22:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "morocco",
         "name": "Morocco"
@@ -1018,7 +1018,7 @@
       },
       "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 3,
+      "goalsHome": 4,
       "goalsAway": 2,
       "penalties": null
     },
@@ -1027,7 +1027,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_C",
       "utcDate": "2026-06-24T22:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "scotland",
         "name": "Scotland"
@@ -1047,7 +1047,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
       "utcDate": "2026-06-25T01:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "home": {
         "id": "czechia",
         "name": "Czechia"
@@ -1056,10 +1056,10 @@
         "id": "mexico",
         "name": "Mexico"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -1067,7 +1067,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
       "utcDate": "2026-06-25T01:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "home": {
         "id": "southafrica",
         "name": "South Africa"
@@ -1076,10 +1076,10 @@
         "id": "southkorea",
         "name": "South Korea"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -1489,8 +1489,8 @@
       "utcDate": "2026-06-29T20:30:00Z",
       "status": "TIMED",
       "home": {
-        "id": "germany",
-        "name": "Germany"
+        "id": null,
+        "name": "TBD"
       },
       "away": {
         "id": null,
@@ -1569,8 +1569,8 @@
       "utcDate": "2026-07-01T01:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": "mexico",
-        "name": "Mexico"
+        "id": null,
+        "name": "TBD"
       },
       "away": {
         "id": null,
@@ -1629,8 +1629,8 @@
       "utcDate": "2026-07-02T00:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": "usa",
-        "name": "United States"
+        "id": null,
+        "name": "TBD"
       },
       "away": {
         "id": null,
@@ -1729,8 +1729,8 @@
       "utcDate": "2026-07-03T22:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": "argentina",
-        "name": "Argentina"
+        "id": null,
+        "name": "TBD"
       },
       "away": {
         "id": null,
