@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T02:09:18.926Z",
+  "updatedAt": "2026-06-25T06:30:07.973Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1047,7 +1047,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
       "utcDate": "2026-06-25T01:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "czechia",
         "name": "Czechia"
@@ -1056,10 +1056,10 @@
         "id": "mexico",
         "name": "Mexico"
       },
-      "winner": "draw",
+      "winner": "away",
       "duration": "REGULAR",
       "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsAway": 3,
       "penalties": null
     },
     {
@@ -1067,7 +1067,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_A",
       "utcDate": "2026-06-25T01:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "southafrica",
         "name": "South Africa"
@@ -1076,9 +1076,9 @@
         "id": "southkorea",
         "name": "South Korea"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
+      "goalsHome": 1,
       "goalsAway": 0,
       "penalties": null
     },
@@ -2148,6 +2148,13 @@
       "assists": null
     },
     {
+      "player": "Julián Quiñones",
+      "team": "Mexico",
+      "teamId": "mexico",
+      "goals": 2,
+      "assists": null
+    },
+    {
       "player": "Cyle Larin",
       "team": "Canada",
       "teamId": "canada",
@@ -2179,13 +2186,6 @@
       "player": "Daichi Kamada",
       "team": "Japan",
       "teamId": "japan",
-      "goals": 2,
-      "assists": null
-    },
-    {
-      "player": "Yasin Ayari",
-      "team": "Sweden",
-      "teamId": "sweden",
       "goals": 2,
       "assists": null
     }
