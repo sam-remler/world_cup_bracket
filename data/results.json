@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T19:23:00.000Z",
+  "updatedAt": "2026-06-25T21:08:41.819Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1087,7 +1087,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "utcDate": "2026-06-25T20:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "home": {
         "id": "ecuador",
         "name": "Ecuador"
@@ -1096,10 +1096,10 @@
         "id": "germany",
         "name": "Germany"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -1107,7 +1107,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_E",
       "utcDate": "2026-06-25T20:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "home": {
         "id": "curacao",
         "name": "Curaçao"
@@ -1116,10 +1116,10 @@
         "id": "ivorycoast",
         "name": "Ivory Coast"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -1489,8 +1489,8 @@
       "utcDate": "2026-06-29T20:30:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "germany",
+        "name": "Germany"
       },
       "away": {
         "id": null,
@@ -1569,8 +1569,8 @@
       "utcDate": "2026-07-01T01:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "mexico",
+        "name": "Mexico"
       },
       "away": {
         "id": null,
@@ -1629,8 +1629,8 @@
       "utcDate": "2026-07-02T00:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "usa",
+        "name": "United States"
       },
       "away": {
         "id": null,
@@ -1729,8 +1729,8 @@
       "utcDate": "2026-07-03T22:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "argentina",
+        "name": "Argentina"
       },
       "away": {
         "id": null,
