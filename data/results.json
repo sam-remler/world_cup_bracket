@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T21:01:35.984Z",
+  "updatedAt": "2026-06-26T22:40:09.937Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1207,7 +1207,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-26T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "norway",
         "name": "Norway"
@@ -1219,7 +1219,7 @@
       "winner": "away",
       "duration": "REGULAR",
       "goalsHome": 1,
-      "goalsAway": 3,
+      "goalsAway": 4,
       "penalties": null
     },
     {
@@ -1227,7 +1227,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-26T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "senegal",
         "name": "Senegal"
