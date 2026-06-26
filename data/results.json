@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T00:02:17.708Z",
+  "updatedAt": "2026-06-26T04:47:19.418Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1127,7 +1127,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "utcDate": "2026-06-25T23:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "tunisia",
         "name": "Tunisia"
@@ -1138,8 +1138,8 @@
       },
       "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 2,
+      "goalsHome": 1,
+      "goalsAway": 3,
       "penalties": null
     },
     {
@@ -1147,7 +1147,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "utcDate": "2026-06-25T23:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "japan",
         "name": "Japan"
@@ -1158,8 +1158,8 @@
       },
       "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsHome": 1,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -1167,7 +1167,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
       "utcDate": "2026-06-26T02:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "turkiye",
         "name": "Turkey"
@@ -1176,10 +1176,10 @@
         "id": "usa",
         "name": "United States"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 3,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -1187,7 +1187,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_D",
       "utcDate": "2026-06-26T02:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "paraguay",
         "name": "Paraguay"
@@ -1196,10 +1196,10 @@
         "id": "australia",
         "name": "Australia"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -1489,8 +1489,8 @@
       "utcDate": "2026-06-29T20:30:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "germany",
+        "name": "Germany"
       },
       "away": {
         "id": null,
@@ -1569,8 +1569,8 @@
       "utcDate": "2026-07-01T01:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "mexico",
+        "name": "Mexico"
       },
       "away": {
         "id": null,
@@ -1629,8 +1629,8 @@
       "utcDate": "2026-07-02T00:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "usa",
+        "name": "United States"
       },
       "away": {
         "id": null,
@@ -1729,8 +1729,8 @@
       "utcDate": "2026-07-03T22:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "argentina",
+        "name": "Argentina"
       },
       "away": {
         "id": null,
