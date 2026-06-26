@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T22:53:30.528Z",
+  "updatedAt": "2026-06-26T00:02:17.708Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1127,7 +1127,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "utcDate": "2026-06-25T23:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "home": {
         "id": "tunisia",
         "name": "Tunisia"
@@ -1136,10 +1136,10 @@
         "id": "netherlands",
         "name": "Netherlands"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -1147,7 +1147,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_F",
       "utcDate": "2026-06-25T23:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "home": {
         "id": "japan",
         "name": "Japan"
@@ -1156,10 +1156,10 @@
         "id": "sweden",
         "name": "Sweden"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -2148,6 +2148,13 @@
       "assists": null
     },
     {
+      "player": "Brian Brobbey",
+      "team": "Netherlands",
+      "teamId": "netherlands",
+      "goals": 3,
+      "assists": null
+    },
+    {
       "player": "Julián Quiñones",
       "team": "Mexico",
       "teamId": "mexico",
@@ -2181,13 +2188,6 @@
       "teamId": "netherlands",
       "goals": 2,
       "assists": 1
-    },
-    {
-      "player": "Daichi Kamada",
-      "team": "Japan",
-      "teamId": "japan",
-      "goals": 2,
-      "assists": null
     }
   ],
   "unmatchedTeams": []
