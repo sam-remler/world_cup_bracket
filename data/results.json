@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T17:27:58.051Z",
+  "updatedAt": "2026-06-26T19:16:55.873Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1207,7 +1207,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-26T19:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "home": {
         "id": "norway",
         "name": "Norway"
@@ -1216,10 +1216,10 @@
         "id": "france",
         "name": "France"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -1227,7 +1227,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-26T19:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "home": {
         "id": "senegal",
         "name": "Senegal"
@@ -1236,10 +1236,10 @@
         "id": "iraq",
         "name": "Iraq"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -2103,7 +2103,7 @@
       "team": "France",
       "teamId": "france",
       "goals": 4,
-      "assists": null
+      "assists": 1
     },
     {
       "player": "Erling Haaland",
