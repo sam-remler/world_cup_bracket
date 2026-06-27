@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T05:46:36.469Z",
+  "updatedAt": "2026-06-27T08:23:16.747Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1529,8 +1529,8 @@
       "utcDate": "2026-06-30T17:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "ivorycoast",
+        "name": "Ivory Coast"
       },
       "away": {
         "id": null,
