@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T23:52:25.397Z",
+  "updatedAt": "2026-06-27T01:56:14.144Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1247,7 +1247,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
       "utcDate": "2026-06-27T00:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "uruguay",
         "name": "Uruguay"
@@ -1256,10 +1256,10 @@
         "id": "spain",
         "name": "Spain"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -1267,7 +1267,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_H",
       "utcDate": "2026-06-27T00:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "capeverde",
         "name": "Cape Verde Islands"
@@ -1276,10 +1276,10 @@
         "id": "saudiarabia",
         "name": "Saudi Arabia"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
