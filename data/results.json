@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T21:34:52.549Z",
+  "updatedAt": "2026-06-27T22:51:18.664Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1336,10 +1336,10 @@
         "id": "england",
         "name": "England"
       },
-      "winner": "draw",
+      "winner": "away",
       "duration": "REGULAR",
       "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -1347,7 +1347,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
       "utcDate": "2026-06-27T21:00:00Z",
-      "status": "LIVE",
+      "status": "IN_PLAY",
       "home": {
         "id": "croatia",
         "name": "Croatia"
@@ -1356,10 +1356,10 @@
         "id": "ghana",
         "name": "Ghana"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsHome": 2,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -1449,12 +1449,12 @@
       "utcDate": "2026-06-28T19:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "southafrica",
+        "name": "South Africa"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "canada",
+        "name": "Canada"
       },
       "winner": null,
       "duration": "REGULAR",
@@ -1469,12 +1469,12 @@
       "utcDate": "2026-06-29T17:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "brazil",
+        "name": "Brazil"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "japan",
+        "name": "Japan"
       },
       "winner": null,
       "duration": "REGULAR",
@@ -1489,8 +1489,8 @@
       "utcDate": "2026-06-29T20:30:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "germany",
+        "name": "Germany"
       },
       "away": {
         "id": null,
@@ -1509,12 +1509,12 @@
       "utcDate": "2026-06-30T01:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "netherlands",
+        "name": "Netherlands"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "morocco",
+        "name": "Morocco"
       },
       "winner": null,
       "duration": "REGULAR",
@@ -1529,8 +1529,8 @@
       "utcDate": "2026-06-30T17:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "ivorycoast",
+        "name": "Ivory Coast"
       },
       "away": {
         "id": null,
@@ -1569,8 +1569,8 @@
       "utcDate": "2026-07-01T01:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "mexico",
+        "name": "Mexico"
       },
       "away": {
         "id": null,
@@ -1629,12 +1629,12 @@
       "utcDate": "2026-07-02T00:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "usa",
+        "name": "United States"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "bosnia",
+        "name": "Bosnia-Herzegovina"
       },
       "winner": null,
       "duration": "REGULAR",
@@ -1689,8 +1689,8 @@
       "utcDate": "2026-07-03T03:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "switzerland",
+        "name": "Switzerland"
       },
       "away": {
         "id": null,
@@ -1709,8 +1709,8 @@
       "utcDate": "2026-07-03T18:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "australia",
+        "name": "Australia"
       },
       "away": {
         "id": null,
@@ -1729,8 +1729,8 @@
       "utcDate": "2026-07-03T22:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "argentina",
+        "name": "Argentina"
       },
       "away": {
         "id": null,
@@ -2141,6 +2141,13 @@
       "assists": null
     },
     {
+      "player": "Harry Kane",
+      "team": "England",
+      "teamId": "england",
+      "goals": 3,
+      "assists": null
+    },
+    {
       "player": "Johan Manzambi",
       "team": "Switzerland",
       "teamId": "switzerland",
@@ -2179,13 +2186,6 @@
       "player": "Julián Quiñones",
       "team": "Mexico",
       "teamId": "mexico",
-      "goals": 2,
-      "assists": null
-    },
-    {
-      "player": "Cyle Larin",
-      "team": "Canada",
-      "teamId": "canada",
       "goals": 2,
       "assists": null
     }
