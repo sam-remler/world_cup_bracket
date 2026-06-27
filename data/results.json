@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T12:04:02.039Z",
+  "updatedAt": "2026-06-27T14:11:21.705Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1207,7 +1207,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-26T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "norway",
         "name": "Norway"
@@ -1216,10 +1216,10 @@
         "id": "france",
         "name": "France"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 4,
       "penalties": null
     },
     {
@@ -1227,7 +1227,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_I",
       "utcDate": "2026-06-26T19:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "senegal",
         "name": "Senegal"
@@ -1236,10 +1236,10 @@
         "id": "iraq",
         "name": "Iraq"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 5,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -1316,10 +1316,10 @@
         "id": "iran",
         "name": "Iran"
       },
-      "winner": "away",
+      "winner": "draw",
       "duration": "REGULAR",
       "goalsHome": 1,
-      "goalsAway": 2,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -1529,8 +1529,8 @@
       "utcDate": "2026-06-30T17:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "ivorycoast",
+        "name": "Ivory Coast"
       },
       "away": {
         "id": null,
