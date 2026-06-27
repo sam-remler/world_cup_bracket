@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T22:51:18.664Z",
+  "updatedAt": "2026-06-27T23:50:53.268Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1327,7 +1327,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
       "utcDate": "2026-06-27T21:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "panama",
         "name": "Panama"
@@ -1347,7 +1347,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_L",
       "utcDate": "2026-06-27T21:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "croatia",
         "name": "Croatia"
@@ -1367,7 +1367,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
       "utcDate": "2026-06-27T23:30:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "home": {
         "id": "colombia",
         "name": "Colombia"
@@ -1376,10 +1376,10 @@
         "id": "portugal",
         "name": "Portugal"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -1387,7 +1387,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
       "utcDate": "2026-06-27T23:30:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "home": {
         "id": "drcongo",
         "name": "Congo DR"
@@ -1396,10 +1396,10 @@
         "id": "uzbekistan",
         "name": "Uzbekistan"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 1,
       "penalties": null
     },
     {
