@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T23:50:53.268Z",
+  "updatedAt": "2026-06-28T02:07:04.530Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1367,7 +1367,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
       "utcDate": "2026-06-27T23:30:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "home": {
         "id": "colombia",
         "name": "Colombia"
@@ -1387,7 +1387,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_K",
       "utcDate": "2026-06-27T23:30:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "home": {
         "id": "drcongo",
         "name": "Congo DR"
@@ -1396,9 +1396,9 @@
         "id": "uzbekistan",
         "name": "Uzbekistan"
       },
-      "winner": "away",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
+      "goalsHome": 3,
       "goalsAway": 1,
       "penalties": null
     },
@@ -1407,7 +1407,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
       "utcDate": "2026-06-28T02:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "jordan",
         "name": "Jordan"
@@ -1416,10 +1416,10 @@
         "id": "argentina",
         "name": "Argentina"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -1427,7 +1427,7 @@
       "stage": "GROUP_STAGE",
       "group": "GROUP_J",
       "utcDate": "2026-06-28T02:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "home": {
         "id": "algeria",
         "name": "Algeria"
@@ -1436,10 +1436,10 @@
         "id": "austria",
         "name": "Austria"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -2141,6 +2141,13 @@
       "assists": null
     },
     {
+      "player": "Yoane Wissa",
+      "team": "Congo DR",
+      "teamId": "drcongo",
+      "goals": 3,
+      "assists": null
+    },
+    {
       "player": "Harry Kane",
       "team": "England",
       "teamId": "england",
@@ -2181,13 +2188,6 @@
       "teamId": "senegal",
       "goals": 3,
       "assists": 1
-    },
-    {
-      "player": "Julián Quiñones",
-      "team": "Mexico",
-      "teamId": "mexico",
-      "goals": 2,
-      "assists": null
     }
   ],
   "unmatchedTeams": []
