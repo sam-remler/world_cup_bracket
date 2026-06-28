@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T18:58:46.949Z",
+  "updatedAt": "2026-06-28T20:11:44.201Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1447,7 +1447,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-06-28T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "southafrica",
         "name": "South Africa"
@@ -1456,10 +1456,10 @@
         "id": "canada",
         "name": "Canada"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
