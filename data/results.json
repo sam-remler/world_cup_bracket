@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T20:46:15.937Z",
+  "updatedAt": "2026-06-29T22:01:57.688Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1498,8 +1498,8 @@
       },
       "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsHome": 1,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -2127,6 +2127,13 @@
       "assists": null
     },
     {
+      "player": "Kai Havertz",
+      "team": "Germany",
+      "teamId": "germany",
+      "goals": 3,
+      "assists": null
+    },
+    {
       "player": "Deniz Undav",
       "team": "Germany",
       "teamId": "germany",
@@ -2181,13 +2188,6 @@
       "teamId": "netherlands",
       "goals": 3,
       "assists": null
-    },
-    {
-      "player": "Ismaïla Sarr",
-      "team": "Senegal",
-      "teamId": "senegal",
-      "goals": 3,
-      "assists": 1
     }
   ],
   "unmatchedTeams": []
