@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T22:01:57.688Z",
+  "updatedAt": "2026-06-29T23:30:59.300Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1487,7 +1487,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-06-29T20:30:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "germany",
         "name": "Germany"
@@ -1496,11 +1496,14 @@
         "id": "paraguay",
         "name": "Paraguay"
       },
-      "winner": "draw",
-      "duration": "REGULAR",
+      "winner": null,
+      "duration": "PENALTY_SHOOTOUT",
       "goalsHome": 1,
       "goalsAway": 1,
-      "penalties": null
+      "penalties": {
+        "home": 4,
+        "away": 4
+      }
     },
     {
       "id": 537418,
