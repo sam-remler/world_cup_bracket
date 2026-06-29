@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T18:56:11.198Z",
+  "updatedAt": "2026-06-29T20:46:15.937Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1467,7 +1467,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-06-29T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "brazil",
         "name": "Brazil"
@@ -1476,9 +1476,9 @@
         "id": "japan",
         "name": "Japan"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 1,
+      "goalsHome": 2,
       "goalsAway": 1,
       "penalties": null
     },
@@ -1487,7 +1487,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-06-29T20:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "germany",
         "name": "Germany"
@@ -1496,10 +1496,10 @@
         "id": "paraguay",
         "name": "Paraguay"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
