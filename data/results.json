@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T16:31:34.590Z",
+  "updatedAt": "2026-06-29T18:56:11.198Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1467,7 +1467,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-06-29T17:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "brazil",
         "name": "Brazil"
@@ -1476,10 +1476,10 @@
         "id": "japan",
         "name": "Japan"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 1,
       "penalties": null
     },
     {
