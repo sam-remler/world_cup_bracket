@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T02:59:25.518Z",
+  "updatedAt": "2026-06-29T08:12:05.271Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1769,8 +1769,8 @@
       "utcDate": "2026-07-04T17:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "canada",
+        "name": "Canada"
       },
       "away": {
         "id": null,
