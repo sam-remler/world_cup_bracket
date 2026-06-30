@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T17:20:23.217Z",
+  "updatedAt": "2026-06-30T19:13:40.796Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1533,7 +1533,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-06-30T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "ivorycoast",
         "name": "Ivory Coast"
@@ -1542,10 +1542,10 @@
         "id": "norway",
         "name": "Norway"
       },
-      "winner": "draw",
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsHome": 1,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -2098,6 +2098,13 @@
       "assists": null
     },
     {
+      "player": "Erling Haaland",
+      "team": "Norway",
+      "teamId": "norway",
+      "goals": 5,
+      "assists": null
+    },
+    {
       "player": "Vinicius Junior",
       "team": "Brazil",
       "teamId": "brazil",
@@ -2110,13 +2117,6 @@
       "teamId": "france",
       "goals": 4,
       "assists": 2
-    },
-    {
-      "player": "Erling Haaland",
-      "team": "Norway",
-      "teamId": "norway",
-      "goals": 4,
-      "assists": null
     },
     {
       "player": "Ousmane Dembélé",
