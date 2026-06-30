@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T19:13:40.796Z",
+  "updatedAt": "2026-06-30T21:11:05.458Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1553,7 +1553,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-06-30T21:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "france",
         "name": "France"
@@ -1562,10 +1562,10 @@
         "id": "sweden",
         "name": "Sweden"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
