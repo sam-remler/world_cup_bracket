@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T21:11:05.458Z",
+  "updatedAt": "2026-06-30T22:46:21.437Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1562,9 +1562,9 @@
         "id": "sweden",
         "name": "Sweden"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
+      "goalsHome": 3,
       "goalsAway": 0,
       "penalties": null
     },
@@ -2091,6 +2091,13 @@
   ],
   "scorers": [
     {
+      "player": "Kylian Mbappé",
+      "team": "France",
+      "teamId": "france",
+      "goals": 6,
+      "assists": 2
+    },
+    {
       "player": "Lionel Messi",
       "team": "Argentina",
       "teamId": "argentina",
@@ -2112,18 +2119,11 @@
       "assists": 1
     },
     {
-      "player": "Kylian Mbappé",
-      "team": "France",
-      "teamId": "france",
-      "goals": 4,
-      "assists": 2
-    },
-    {
       "player": "Ousmane Dembélé",
       "team": "France",
       "teamId": "france",
       "goals": 4,
-      "assists": 1
+      "assists": 2
     },
     {
       "player": "Ismael Saibari",
