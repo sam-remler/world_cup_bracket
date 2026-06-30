@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T02:01:23.830Z",
+  "updatedAt": "2026-06-30T06:35:29.789Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1496,12 +1496,12 @@
         "id": "paraguay",
         "name": "Paraguay"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "PENALTY_SHOOTOUT",
       "goalsHome": 1,
       "goalsAway": 1,
       "penalties": {
-        "home": 4,
+        "home": 3,
         "away": 4
       }
     },
@@ -1510,7 +1510,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-06-30T01:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "netherlands",
         "name": "Netherlands"
@@ -1519,11 +1519,14 @@
         "id": "morocco",
         "name": "Morocco"
       },
-      "winner": "draw",
-      "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 0,
-      "penalties": null
+      "winner": "away",
+      "duration": "PENALTY_SHOOTOUT",
+      "goalsHome": 1,
+      "goalsAway": 1,
+      "penalties": {
+        "home": 2,
+        "away": 3
+      }
     },
     {
       "id": 537424,
@@ -1776,8 +1779,8 @@
         "name": "Canada"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "morocco",
+        "name": "Morocco"
       },
       "winner": null,
       "duration": "REGULAR",
@@ -1792,8 +1795,8 @@
       "utcDate": "2026-07-04T21:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "paraguay",
+        "name": "Paraguay"
       },
       "away": {
         "id": null,
@@ -1812,8 +1815,8 @@
       "utcDate": "2026-07-05T20:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "brazil",
+        "name": "Brazil"
       },
       "away": {
         "id": null,
