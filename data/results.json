@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T16:13:42.725Z",
+  "updatedAt": "2026-07-01T18:20:25.880Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1593,7 +1593,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-07-01T16:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "home": {
         "id": "england",
         "name": "England"
@@ -1602,9 +1602,9 @@
         "id": "drcongo",
         "name": "Congo DR"
       },
-      "winner": "away",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
+      "goalsHome": 2,
       "goalsAway": 1,
       "penalties": null
     },
@@ -2112,6 +2112,13 @@
       "assists": null
     },
     {
+      "player": "Harry Kane",
+      "team": "England",
+      "teamId": "england",
+      "goals": 5,
+      "assists": null
+    },
+    {
       "player": "Vinicius Junior",
       "team": "Brazil",
       "teamId": "brazil",
@@ -2164,13 +2171,6 @@
       "player": "Yoane Wissa",
       "team": "Congo DR",
       "teamId": "drcongo",
-      "goals": 3,
-      "assists": null
-    },
-    {
-      "player": "Harry Kane",
-      "team": "England",
-      "teamId": "england",
       "goals": 3,
       "assists": null
     },
