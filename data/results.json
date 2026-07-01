@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T02:15:13.698Z",
+  "updatedAt": "2026-07-01T06:49:18.245Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1573,7 +1573,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-07-01T01:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "home": {
         "id": "mexico",
         "name": "Mexico"
@@ -1582,9 +1582,9 @@
         "id": "ecuador",
         "name": "Ecuador"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
+      "goalsHome": 2,
       "goalsAway": 0,
       "penalties": null
     },
@@ -1799,8 +1799,8 @@
         "name": "Paraguay"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "france",
+        "name": "France"
       },
       "winner": null,
       "duration": "REGULAR",
@@ -1819,8 +1819,8 @@
         "name": "Brazil"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "norway",
+        "name": "Norway"
       },
       "winner": null,
       "duration": "REGULAR",
@@ -2126,6 +2126,13 @@
       "assists": 2
     },
     {
+      "player": "Julián Quiñones",
+      "team": "Mexico",
+      "teamId": "mexico",
+      "goals": 3,
+      "assists": 1
+    },
+    {
       "player": "Ismael Saibari",
       "team": "Morocco",
       "teamId": "morocco",
@@ -2185,13 +2192,6 @@
       "player": "Matheus Cunha",
       "team": "Brazil",
       "teamId": "brazil",
-      "goals": 3,
-      "assists": null
-    },
-    {
-      "player": "Brian Brobbey",
-      "team": "Netherlands",
-      "teamId": "netherlands",
       "goals": 3,
       "assists": null
     }
