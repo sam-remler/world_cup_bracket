@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T20:20:13.601Z",
+  "updatedAt": "2026-07-01T21:55:45.366Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1622,10 +1622,10 @@
         "id": "senegal",
         "name": "Senegal"
       },
-      "winner": "draw",
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsHome": 1,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -2133,6 +2133,13 @@
       "assists": 2
     },
     {
+      "player": "Ismaïla Sarr",
+      "team": "Senegal",
+      "teamId": "senegal",
+      "goals": 4,
+      "assists": 1
+    },
+    {
       "player": "Julián Quiñones",
       "team": "Mexico",
       "teamId": "mexico",
@@ -2185,13 +2192,6 @@
       "player": "Jonathan David",
       "team": "Canada",
       "teamId": "canada",
-      "goals": 3,
-      "assists": null
-    },
-    {
-      "player": "Matheus Cunha",
-      "team": "Brazil",
-      "teamId": "brazil",
       "goals": 3,
       "assists": null
     }
