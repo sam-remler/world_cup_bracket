@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T23:55:42.546Z",
+  "updatedAt": "2026-07-01T02:15:13.698Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1573,7 +1573,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-07-01T01:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "home": {
         "id": "mexico",
         "name": "Mexico"
@@ -1582,10 +1582,10 @@
         "id": "ecuador",
         "name": "Ecuador"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
