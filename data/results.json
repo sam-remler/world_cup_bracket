@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T20:12:59.374Z",
+  "updatedAt": "2026-07-02T21:39:05.792Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1653,7 +1653,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-07-02T19:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "home": {
         "id": "spain",
         "name": "Spain"
@@ -1664,7 +1664,7 @@
       },
       "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 1,
+      "goalsHome": 3,
       "goalsAway": 0,
       "penalties": null
     },
@@ -2126,6 +2126,13 @@
       "assists": 1
     },
     {
+      "player": "Mikel Oyarzabal",
+      "team": "Spain",
+      "teamId": "spain",
+      "goals": 4,
+      "assists": 1
+    },
+    {
       "player": "Ousmane Dembélé",
       "team": "France",
       "teamId": "france",
@@ -2187,13 +2194,6 @@
       "teamId": "drcongo",
       "goals": 3,
       "assists": null
-    },
-    {
-      "player": "Johan Manzambi",
-      "team": "Switzerland",
-      "teamId": "switzerland",
-      "goals": 3,
-      "assists": 1
     }
   ],
   "unmatchedTeams": []
