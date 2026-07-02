@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T01:28:53.864Z",
+  "updatedAt": "2026-07-02T05:30:08.355Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1572,7 +1572,7 @@
       "id": 537425,
       "stage": "LAST_32",
       "group": null,
-      "utcDate": "2026-07-01T01:00:00Z",
+      "utcDate": "2026-07-01T02:00:00Z",
       "status": "FINISHED",
       "home": {
         "id": "mexico",
@@ -1623,7 +1623,7 @@
         "name": "Senegal"
       },
       "winner": "home",
-      "duration": "REGULAR",
+      "duration": "EXTRA_TIME",
       "goalsHome": 3,
       "goalsAway": 2,
       "penalties": null
@@ -1633,7 +1633,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-07-02T00:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "usa",
         "name": "United States"
@@ -1644,7 +1644,7 @@
       },
       "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 1,
+      "goalsHome": 2,
       "goalsAway": 0,
       "penalties": null
     },
