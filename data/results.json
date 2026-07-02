@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T23:00:56.618Z",
+  "updatedAt": "2026-07-02T01:28:53.864Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1633,7 +1633,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-07-02T00:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "usa",
         "name": "United States"
@@ -1642,10 +1642,10 @@
         "id": "bosnia",
         "name": "Bosnia-Herzegovina"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -2147,6 +2147,13 @@
       "assists": 1
     },
     {
+      "player": "Folarin Balogun",
+      "team": "United States",
+      "teamId": "usa",
+      "goals": 3,
+      "assists": null
+    },
+    {
       "player": "Ismael Saibari",
       "team": "Morocco",
       "teamId": "morocco",
@@ -2187,13 +2194,6 @@
       "teamId": "switzerland",
       "goals": 3,
       "assists": 1
-    },
-    {
-      "player": "Jonathan David",
-      "team": "Canada",
-      "teamId": "canada",
-      "goals": 3,
-      "assists": null
     }
   ],
   "unmatchedTeams": []
