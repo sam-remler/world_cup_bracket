@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T18:53:50.010Z",
+  "updatedAt": "2026-07-02T20:12:59.374Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1653,7 +1653,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-07-02T19:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "home": {
         "id": "spain",
         "name": "Spain"
@@ -1662,10 +1662,10 @@
         "id": "austria",
         "name": "Austria"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 0,
       "penalties": null
     },
     {
