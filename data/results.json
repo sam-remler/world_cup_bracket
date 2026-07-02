@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T05:30:08.355Z",
+  "updatedAt": "2026-07-02T08:28:35.134Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1835,12 +1835,12 @@
       "utcDate": "2026-07-06T00:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "mexico",
+        "name": "Mexico"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "england",
+        "name": "England"
       },
       "winner": null,
       "duration": "REGULAR",
@@ -1875,12 +1875,12 @@
       "utcDate": "2026-07-07T00:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "usa",
+        "name": "United States"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "belgium",
+        "name": "Belgium"
       },
       "winner": null,
       "duration": "REGULAR",
