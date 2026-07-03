@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T21:36:41.784Z",
+  "updatedAt": "2026-07-03T22:51:48.231Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1736,7 +1736,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-07-03T22:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "argentina",
         "name": "Argentina"
@@ -1745,10 +1745,10 @@
         "id": "capeverde",
         "name": "Cape Verde Islands"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -2094,18 +2094,18 @@
   ],
   "scorers": [
     {
+      "player": "Lionel Messi",
+      "team": "Argentina",
+      "teamId": "argentina",
+      "goals": 7,
+      "assists": null
+    },
+    {
       "player": "Kylian Mbappé",
       "team": "France",
       "teamId": "france",
       "goals": 6,
       "assists": 2
-    },
-    {
-      "player": "Lionel Messi",
-      "team": "Argentina",
-      "teamId": "argentina",
-      "goals": 6,
-      "assists": null
     },
     {
       "player": "Erling Haaland",
