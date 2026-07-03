@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T23:53:52.551Z",
+  "updatedAt": "2026-07-03T01:43:43.572Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1673,7 +1673,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-07-02T23:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "portugal",
         "name": "Portugal"
@@ -1682,10 +1682,10 @@
         "id": "croatia",
         "name": "Croatia"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsHome": 2,
+      "goalsAway": 1,
       "penalties": null
     },
     {
