@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T17:09:32.099Z",
+  "updatedAt": "2026-07-03T18:43:43.353Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1713,7 +1713,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-07-03T18:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "australia",
         "name": "Australia"
@@ -1722,10 +1722,10 @@
         "id": "egypt",
         "name": "Egypt"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 1,
       "penalties": null
     },
     {
