@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T01:43:43.572Z",
+  "updatedAt": "2026-07-03T05:40:26.080Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1693,7 +1693,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-07-03T03:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "home": {
         "id": "switzerland",
         "name": "Switzerland"
@@ -1702,10 +1702,10 @@
         "id": "algeria",
         "name": "Algeria"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 2,
+      "goalsAway": 0,
       "penalties": null
     },
     {
