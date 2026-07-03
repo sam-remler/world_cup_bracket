@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T22:51:48.231Z",
+  "updatedAt": "2026-07-03T23:53:42.169Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1745,10 +1745,10 @@
         "id": "capeverde",
         "name": "Cape Verde Islands"
       },
-      "winner": "home",
+      "winner": "draw",
       "duration": "REGULAR",
       "goalsHome": 1,
-      "goalsAway": 0,
+      "goalsAway": 1,
       "penalties": null
     },
     {
