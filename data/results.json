@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T23:53:42.169Z",
+  "updatedAt": "2026-07-04T01:30:45.729Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1736,7 +1736,7 @@
       "stage": "LAST_32",
       "group": null,
       "utcDate": "2026-07-03T22:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "argentina",
         "name": "Argentina"
@@ -1745,10 +1745,10 @@
         "id": "capeverde",
         "name": "Cape Verde Islands"
       },
-      "winner": "draw",
-      "duration": "REGULAR",
-      "goalsHome": 1,
-      "goalsAway": 1,
+      "winner": "home",
+      "duration": "EXTRA_TIME",
+      "goalsHome": 3,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -2098,7 +2098,7 @@
       "team": "Argentina",
       "teamId": "argentina",
       "goals": 7,
-      "assists": null
+      "assists": 1
     },
     {
       "player": "Kylian Mbappé",
