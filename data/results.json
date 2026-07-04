@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T05:33:34.252Z",
+  "updatedAt": "2026-07-04T08:18:31.205Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1722,12 +1722,12 @@
         "id": "egypt",
         "name": "Egypt"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "PENALTY_SHOOTOUT",
       "goalsHome": 1,
       "goalsAway": 1,
       "penalties": {
-        "home": 4,
+        "home": 2,
         "away": 4
       }
     },
@@ -1858,12 +1858,12 @@
       "utcDate": "2026-07-06T19:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "portugal",
+        "name": "Portugal"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "spain",
+        "name": "Spain"
       },
       "winner": null,
       "duration": "REGULAR",
@@ -1898,12 +1898,12 @@
       "utcDate": "2026-07-07T16:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "argentina",
+        "name": "Argentina"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "egypt",
+        "name": "Egypt"
       },
       "winner": null,
       "duration": "REGULAR",
@@ -1918,12 +1918,12 @@
       "utcDate": "2026-07-07T20:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "switzerland",
+        "name": "Switzerland"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "colombia",
+        "name": "Colombia"
       },
       "winner": null,
       "duration": "REGULAR",
