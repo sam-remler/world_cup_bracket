@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T18:51:58.637Z",
+  "updatedAt": "2026-07-04T20:02:45.625Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1776,7 +1776,7 @@
       "stage": "LAST_16",
       "group": null,
       "utcDate": "2026-07-04T17:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "canada",
         "name": "Canada"
@@ -1788,7 +1788,7 @@
       "winner": "away",
       "duration": "REGULAR",
       "goalsHome": 0,
-      "goalsAway": 2,
+      "goalsAway": 3,
       "penalties": null
     },
     {
