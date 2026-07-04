@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T22:24:28.956Z",
+  "updatedAt": "2026-07-04T23:27:40.141Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1796,7 +1796,7 @@
       "stage": "LAST_16",
       "group": null,
       "utcDate": "2026-07-04T21:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "paraguay",
         "name": "Paraguay"
@@ -1805,10 +1805,10 @@
         "id": "france",
         "name": "France"
       },
-      "winner": "draw",
+      "winner": "away",
       "duration": "REGULAR",
       "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -2094,18 +2094,18 @@
   ],
   "scorers": [
     {
+      "player": "Kylian Mbappé",
+      "team": "France",
+      "teamId": "france",
+      "goals": 7,
+      "assists": 2
+    },
+    {
       "player": "Lionel Messi",
       "team": "Argentina",
       "teamId": "argentina",
       "goals": 7,
       "assists": null
-    },
-    {
-      "player": "Kylian Mbappé",
-      "team": "France",
-      "teamId": "france",
-      "goals": 6,
-      "assists": 2
     },
     {
       "player": "Erling Haaland",
