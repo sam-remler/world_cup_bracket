@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T21:31:10.425Z",
+  "updatedAt": "2026-07-05T22:47:06.118Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1816,7 +1816,7 @@
       "stage": "LAST_16",
       "group": null,
       "utcDate": "2026-07-05T20:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "home": {
         "id": "brazil",
         "name": "Brazil"
@@ -1825,10 +1825,10 @@
         "id": "norway",
         "name": "Norway"
       },
-      "winner": "draw",
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsHome": 1,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -2101,17 +2101,17 @@
       "assists": 2
     },
     {
-      "player": "Lionel Messi",
-      "team": "Argentina",
-      "teamId": "argentina",
+      "player": "Erling Haaland",
+      "team": "Norway",
+      "teamId": "norway",
       "goals": 7,
       "assists": null
     },
     {
-      "player": "Erling Haaland",
-      "team": "Norway",
-      "teamId": "norway",
-      "goals": 5,
+      "player": "Lionel Messi",
+      "team": "Argentina",
+      "teamId": "argentina",
+      "goals": 7,
       "assists": null
     },
     {
