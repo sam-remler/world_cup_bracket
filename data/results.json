@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T05:15:16.955Z",
+  "updatedAt": "2026-07-05T08:22:58.298Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1938,12 +1938,12 @@
       "utcDate": "2026-07-09T20:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "france",
+        "name": "France"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "morocco",
+        "name": "Morocco"
       },
       "winner": null,
       "duration": "REGULAR",
