@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T01:53:06.662Z",
+  "updatedAt": "2026-07-06T06:15:49.239Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1836,7 +1836,7 @@
       "stage": "LAST_16",
       "group": null,
       "utcDate": "2026-07-06T01:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "mexico",
         "name": "Mexico"
@@ -1847,8 +1847,8 @@
       },
       "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": 1,
-      "goalsAway": 2,
+      "goalsHome": 2,
+      "goalsAway": 3,
       "penalties": null
     },
     {
@@ -1978,12 +1978,12 @@
       "utcDate": "2026-07-11T21:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "norway",
+        "name": "Norway"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "england",
+        "name": "England"
       },
       "winner": null,
       "duration": "REGULAR",
@@ -2118,7 +2118,7 @@
       "player": "Harry Kane",
       "team": "England",
       "teamId": "england",
-      "goals": 5,
+      "goals": 6,
       "assists": 1
     },
     {
@@ -2164,6 +2164,13 @@
       "assists": 1
     },
     {
+      "player": "Raúl Jiménez",
+      "team": "Mexico",
+      "teamId": "mexico",
+      "goals": 3,
+      "assists": null
+    },
+    {
       "player": "Folarin Balogun",
       "team": "United States",
       "teamId": "usa",
@@ -2190,13 +2197,6 @@
       "teamId": "germany",
       "goals": 3,
       "assists": 2
-    },
-    {
-      "player": "Elijah Just",
-      "team": "New Zealand",
-      "teamId": "newzealand",
-      "goals": 3,
-      "assists": null
     }
   ],
   "unmatchedTeams": []
