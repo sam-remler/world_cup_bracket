@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T17:32:50.423Z",
+  "updatedAt": "2026-07-06T19:28:13.668Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1856,7 +1856,7 @@
       "stage": "LAST_16",
       "group": null,
       "utcDate": "2026-07-06T19:00:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "home": {
         "id": "portugal",
         "name": "Portugal"
@@ -1865,10 +1865,10 @@
         "id": "spain",
         "name": "Spain"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
