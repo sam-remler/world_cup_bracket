@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T23:53:38.765Z",
+  "updatedAt": "2026-07-06T01:53:06.662Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1836,7 +1836,7 @@
       "stage": "LAST_16",
       "group": null,
       "utcDate": "2026-07-06T01:00:00Z",
-      "status": "2026-07-06 01:00:00Z",
+      "status": "IN_PLAY",
       "home": {
         "id": "mexico",
         "name": "Mexico"
@@ -1845,10 +1845,10 @@
         "id": "england",
         "name": "England"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -2119,12 +2119,26 @@
       "team": "England",
       "teamId": "england",
       "goals": 5,
-      "assists": null
+      "assists": 1
+    },
+    {
+      "player": "Julián Quiñones",
+      "team": "Mexico",
+      "teamId": "mexico",
+      "goals": 4,
+      "assists": 1
     },
     {
       "player": "Vinicius Junior",
       "team": "Brazil",
       "teamId": "brazil",
+      "goals": 4,
+      "assists": 1
+    },
+    {
+      "player": "Jude Bellingham",
+      "team": "England",
+      "teamId": "england",
       "goals": 4,
       "assists": 1
     },
@@ -2147,13 +2161,6 @@
       "team": "Senegal",
       "teamId": "senegal",
       "goals": 4,
-      "assists": 1
-    },
-    {
-      "player": "Julián Quiñones",
-      "team": "Mexico",
-      "teamId": "mexico",
-      "goals": 3,
       "assists": 1
     },
     {
@@ -2188,13 +2195,6 @@
       "player": "Elijah Just",
       "team": "New Zealand",
       "teamId": "newzealand",
-      "goals": 3,
-      "assists": null
-    },
-    {
-      "player": "Yoane Wissa",
-      "team": "Congo DR",
-      "teamId": "drcongo",
       "goals": 3,
       "assists": null
     }
