@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T23:55:28.140Z",
+  "updatedAt": "2026-07-07T01:55:04.458Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1876,7 +1876,7 @@
       "stage": "LAST_16",
       "group": null,
       "utcDate": "2026-07-07T00:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "usa",
         "name": "United States"
@@ -1885,10 +1885,10 @@
         "id": "belgium",
         "name": "Belgium"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 3,
       "penalties": null
     },
     {
