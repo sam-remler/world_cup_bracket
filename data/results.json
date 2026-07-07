@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T17:30:18.287Z",
+  "updatedAt": "2026-07-07T19:30:00.665Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1896,7 +1896,7 @@
       "stage": "LAST_16",
       "group": null,
       "utcDate": "2026-07-07T16:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "argentina",
         "name": "Argentina"
@@ -1905,9 +1905,9 @@
         "id": "egypt",
         "name": "Egypt"
       },
-      "winner": "away",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
+      "goalsHome": 3,
       "goalsAway": 2,
       "penalties": null
     },
@@ -2094,6 +2094,13 @@
   ],
   "scorers": [
     {
+      "player": "Lionel Messi",
+      "team": "Argentina",
+      "teamId": "argentina",
+      "goals": 8,
+      "assists": 1
+    },
+    {
       "player": "Kylian Mbappé",
       "team": "France",
       "teamId": "france",
@@ -2104,13 +2111,6 @@
       "player": "Erling Haaland",
       "team": "Norway",
       "teamId": "norway",
-      "goals": 7,
-      "assists": null
-    },
-    {
-      "player": "Lionel Messi",
-      "team": "Argentina",
-      "teamId": "argentina",
       "goals": 7,
       "assists": null
     },
