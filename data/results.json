@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T19:30:00.665Z",
+  "updatedAt": "2026-07-07T21:05:52.785Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1916,7 +1916,7 @@
       "stage": "LAST_16",
       "group": null,
       "utcDate": "2026-07-07T20:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "home": {
         "id": "switzerland",
         "name": "Switzerland"
@@ -1925,10 +1925,10 @@
         "id": "colombia",
         "name": "Colombia"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
