@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T04:38:50.354Z",
+  "updatedAt": "2026-07-08T07:20:38.096Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1925,12 +1925,12 @@
         "id": "colombia",
         "name": "Colombia"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "PENALTY_SHOOTOUT",
       "goalsHome": 0,
       "goalsAway": 0,
       "penalties": {
-        "home": 3,
+        "home": 4,
         "away": 3
       }
     },
@@ -2001,12 +2001,12 @@
       "utcDate": "2026-07-12T01:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "argentina",
+        "name": "Argentina"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "switzerland",
+        "name": "Switzerland"
       },
       "winner": null,
       "duration": "REGULAR",
