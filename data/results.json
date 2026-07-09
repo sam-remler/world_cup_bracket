@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T19:17:10.152Z",
+  "updatedAt": "2026-07-09T20:59:00.851Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1939,7 +1939,7 @@
       "stage": "QUARTER_FINALS",
       "group": null,
       "utcDate": "2026-07-09T20:00:00Z",
-      "status": "TIMED",
+      "status": "PAUSED",
       "home": {
         "id": "france",
         "name": "France"
@@ -1948,10 +1948,10 @@
         "id": "morocco",
         "name": "Morocco"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
