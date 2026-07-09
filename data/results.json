@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T20:59:00.851Z",
+  "updatedAt": "2026-07-09T22:20:51.503Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1939,7 +1939,7 @@
       "stage": "QUARTER_FINALS",
       "group": null,
       "utcDate": "2026-07-09T20:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "france",
         "name": "France"
@@ -1948,9 +1948,9 @@
         "id": "morocco",
         "name": "Morocco"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
+      "goalsHome": 2,
       "goalsAway": 0,
       "penalties": null
     },
@@ -2097,18 +2097,18 @@
   ],
   "scorers": [
     {
+      "player": "Kylian Mbappé",
+      "team": "France",
+      "teamId": "france",
+      "goals": 8,
+      "assists": 2
+    },
+    {
       "player": "Lionel Messi",
       "team": "Argentina",
       "teamId": "argentina",
       "goals": 8,
       "assists": 1
-    },
-    {
-      "player": "Kylian Mbappé",
-      "team": "France",
-      "teamId": "france",
-      "goals": 7,
-      "assists": 2
     },
     {
       "player": "Erling Haaland",
@@ -2123,6 +2123,13 @@
       "teamId": "england",
       "goals": 6,
       "assists": 1
+    },
+    {
+      "player": "Ousmane Dembélé",
+      "team": "France",
+      "teamId": "france",
+      "goals": 5,
+      "assists": 2
     },
     {
       "player": "Julián Quiñones",
@@ -2151,13 +2158,6 @@
       "teamId": "spain",
       "goals": 4,
       "assists": 1
-    },
-    {
-      "player": "Ousmane Dembélé",
-      "team": "France",
-      "teamId": "france",
-      "goals": 4,
-      "assists": 2
     },
     {
       "player": "Ismaïla Sarr",
