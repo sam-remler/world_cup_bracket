@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T20:58:49.227Z",
+  "updatedAt": "2026-07-10T21:59:29.692Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1959,7 +1959,7 @@
       "stage": "QUARTER_FINALS",
       "group": null,
       "utcDate": "2026-07-10T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "spain",
         "name": "Spain"
