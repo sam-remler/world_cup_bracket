@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T18:05:47.388Z",
+  "updatedAt": "2026-07-10T19:55:53.301Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1959,7 +1959,7 @@
       "stage": "QUARTER_FINALS",
       "group": null,
       "utcDate": "2026-07-10T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "spain",
         "name": "Spain"
@@ -1968,10 +1968,10 @@
         "id": "belgium",
         "name": "Belgium"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 1,
       "penalties": null
     },
     {
