@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T19:55:53.301Z",
+  "updatedAt": "2026-07-10T20:58:49.227Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1968,9 +1968,9 @@
         "id": "belgium",
         "name": "Belgium"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 1,
+      "goalsHome": 2,
       "goalsAway": 1,
       "penalties": null
     },
