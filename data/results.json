@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T21:37:05.792Z",
+  "updatedAt": "2026-07-11T22:34:35.316Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1988,10 +1988,10 @@
         "id": "england",
         "name": "England"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 0,
+      "goalsHome": 2,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -2125,6 +2125,13 @@
       "assists": 1
     },
     {
+      "player": "Jude Bellingham",
+      "team": "England",
+      "teamId": "england",
+      "goals": 5,
+      "assists": 1
+    },
+    {
       "player": "Ousmane Dembélé",
       "team": "France",
       "teamId": "france",
@@ -2142,13 +2149,6 @@
       "player": "Vinicius Junior",
       "team": "Brazil",
       "teamId": "brazil",
-      "goals": 4,
-      "assists": 1
-    },
-    {
-      "player": "Jude Bellingham",
-      "team": "England",
-      "teamId": "england",
       "goals": 4,
       "assists": 1
     },
