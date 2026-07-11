@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T20:36:05.204Z",
+  "updatedAt": "2026-07-11T21:37:05.792Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1836,7 +1836,7 @@
       "stage": "LAST_16",
       "group": null,
       "utcDate": "2026-07-06T01:00:00Z",
-      "status": "FINISHED",
+      "status": "2026-07-06 01:00:00Z",
       "home": {
         "id": "mexico",
         "name": "Mexico"
@@ -1979,7 +1979,7 @@
       "stage": "QUARTER_FINALS",
       "group": null,
       "utcDate": "2026-07-11T21:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "norway",
         "name": "Norway"
@@ -1988,10 +1988,10 @@
         "id": "england",
         "name": "England"
       },
-      "winner": null,
+      "winner": "draw",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 0,
       "penalties": null
     },
     {
