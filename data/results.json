@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T22:34:35.316Z",
+  "updatedAt": "2026-07-11T23:40:50.864Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1979,7 +1979,7 @@
       "stage": "QUARTER_FINALS",
       "group": null,
       "utcDate": "2026-07-11T21:00:00Z",
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "home": {
         "id": "norway",
         "name": "Norway"
@@ -1988,10 +1988,10 @@
         "id": "england",
         "name": "England"
       },
-      "winner": "home",
-      "duration": "REGULAR",
-      "goalsHome": 2,
-      "goalsAway": 1,
+      "winner": "away",
+      "duration": "EXTRA_TIME",
+      "goalsHome": 1,
+      "goalsAway": 2,
       "penalties": null
     },
     {
@@ -2128,7 +2128,7 @@
       "player": "Jude Bellingham",
       "team": "England",
       "teamId": "england",
-      "goals": 5,
+      "goals": 6,
       "assists": 1
     },
     {
