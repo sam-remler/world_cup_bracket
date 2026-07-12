@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T01:22:41.087Z",
+  "updatedAt": "2026-07-12T04:45:06.416Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1999,7 +1999,7 @@
       "stage": "QUARTER_FINALS",
       "group": null,
       "utcDate": "2026-07-12T01:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "argentina",
         "name": "Argentina"
@@ -2009,9 +2009,9 @@
         "name": "Switzerland"
       },
       "winner": "home",
-      "duration": "REGULAR",
-      "goalsHome": 1,
-      "goalsAway": 0,
+      "duration": "EXTRA_TIME",
+      "goalsHome": 3,
+      "goalsAway": 1,
       "penalties": null
     },
     {
