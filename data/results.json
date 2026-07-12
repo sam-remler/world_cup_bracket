@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T23:40:50.864Z",
+  "updatedAt": "2026-07-12T01:22:41.087Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1979,7 +1979,7 @@
       "stage": "QUARTER_FINALS",
       "group": null,
       "utcDate": "2026-07-11T21:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "home": {
         "id": "norway",
         "name": "Norway"
@@ -1999,7 +1999,7 @@
       "stage": "QUARTER_FINALS",
       "group": null,
       "utcDate": "2026-07-12T01:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "argentina",
         "name": "Argentina"
@@ -2008,10 +2008,10 @@
         "id": "switzerland",
         "name": "Switzerland"
       },
-      "winner": null,
+      "winner": "home",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 1,
+      "goalsAway": 0,
       "penalties": null
     },
     {
@@ -2108,7 +2108,7 @@
       "team": "Argentina",
       "teamId": "argentina",
       "goals": 8,
-      "assists": 1
+      "assists": 2
     },
     {
       "player": "Erling Haaland",
