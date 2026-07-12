@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T04:45:06.416Z",
+  "updatedAt": "2026-07-12T07:22:56.679Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -1836,7 +1836,7 @@
       "stage": "LAST_16",
       "group": null,
       "utcDate": "2026-07-06T01:00:00Z",
-      "status": "2026-07-06 01:00:00Z",
+      "status": "FINISHED",
       "home": {
         "id": "mexico",
         "name": "Mexico"
@@ -2041,12 +2041,12 @@
       "utcDate": "2026-07-15T19:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "england",
+        "name": "England"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "argentina",
+        "name": "Argentina"
       },
       "winner": null,
       "duration": "REGULAR",
