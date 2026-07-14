@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T20:47:25.079Z",
+  "updatedAt": "2026-07-14T21:43:50.203Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2019,7 +2019,7 @@
       "stage": "SEMI_FINALS",
       "group": null,
       "utcDate": "2026-07-14T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "france",
         "name": "France"
