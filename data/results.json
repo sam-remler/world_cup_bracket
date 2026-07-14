@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T18:01:07.362Z",
+  "updatedAt": "2026-07-14T19:49:10.818Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2019,7 +2019,7 @@
       "stage": "SEMI_FINALS",
       "group": null,
       "utcDate": "2026-07-14T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "france",
         "name": "France"
@@ -2028,10 +2028,10 @@
         "id": "spain",
         "name": "Spain"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 1,
       "penalties": null
     },
     {
@@ -2132,6 +2132,13 @@
       "assists": 1
     },
     {
+      "player": "Mikel Oyarzabal",
+      "team": "Spain",
+      "teamId": "spain",
+      "goals": 5,
+      "assists": 1
+    },
+    {
       "player": "Ousmane Dembélé",
       "team": "France",
       "teamId": "france",
@@ -2149,13 +2156,6 @@
       "player": "Vinicius Junior",
       "team": "Brazil",
       "teamId": "brazil",
-      "goals": 4,
-      "assists": 1
-    },
-    {
-      "player": "Mikel Oyarzabal",
-      "team": "Spain",
-      "teamId": "spain",
       "goals": 4,
       "assists": 1
     },
