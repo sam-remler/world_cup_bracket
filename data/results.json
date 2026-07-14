@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T19:49:10.818Z",
+  "updatedAt": "2026-07-14T20:47:25.079Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2031,7 +2031,7 @@
       "winner": "away",
       "duration": "REGULAR",
       "goalsHome": 0,
-      "goalsAway": 1,
+      "goalsAway": 2,
       "penalties": null
     },
     {
