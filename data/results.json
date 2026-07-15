@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T04:20:24.969Z",
+  "updatedAt": "2026-07-15T06:33:45.532Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2061,8 +2061,8 @@
       "utcDate": "2026-07-18T21:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "france",
+        "name": "France"
       },
       "away": {
         "id": null,
@@ -2081,8 +2081,8 @@
       "utcDate": "2026-07-19T19:00:00Z",
       "status": "TIMED",
       "home": {
-        "id": null,
-        "name": "TBD"
+        "id": "spain",
+        "name": "Spain"
       },
       "away": {
         "id": null,
