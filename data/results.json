@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T20:59:57.614Z",
+  "updatedAt": "2026-07-15T22:00:57.210Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2039,7 +2039,7 @@
       "stage": "SEMI_FINALS",
       "group": null,
       "utcDate": "2026-07-15T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "england",
         "name": "England"
