@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T06:08:07.226Z",
+  "updatedAt": "2026-07-16T08:37:23.067Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2065,8 +2065,8 @@
         "name": "France"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "england",
+        "name": "England"
       },
       "winner": null,
       "duration": "REGULAR",
@@ -2085,8 +2085,8 @@
         "name": "Spain"
       },
       "away": {
-        "id": null,
-        "name": "TBD"
+        "id": "argentina",
+        "name": "Argentina"
       },
       "winner": null,
       "duration": "REGULAR",
