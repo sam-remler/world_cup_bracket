@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T07:07:42.168Z",
+  "updatedAt": "2026-07-17T09:24:48.119Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2101,7 +2101,7 @@
       "team": "France",
       "teamId": "france",
       "goals": 8,
-      "assists": 2
+      "assists": 3
     },
     {
       "player": "Lionel Messi",
