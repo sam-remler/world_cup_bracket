@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T20:35:04.995Z",
+  "updatedAt": "2026-07-18T21:38:01.364Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2059,7 +2059,7 @@
       "stage": "THIRD_PLACE",
       "group": null,
       "utcDate": "2026-07-18T21:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "home": {
         "id": "france",
         "name": "France"
@@ -2068,10 +2068,10 @@
         "id": "england",
         "name": "England"
       },
-      "winner": null,
+      "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": null,
-      "goalsAway": null,
+      "goalsHome": 0,
+      "goalsAway": 2,
       "penalties": null
     },
     {
