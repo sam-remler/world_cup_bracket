@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T22:35:50.978Z",
+  "updatedAt": "2026-07-18T23:39:56.805Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2059,7 +2059,7 @@
       "stage": "THIRD_PLACE",
       "group": null,
       "utcDate": "2026-07-18T21:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "france",
         "name": "France"
@@ -2070,8 +2070,8 @@
       },
       "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": 3,
-      "goalsAway": 4,
+      "goalsHome": 4,
+      "goalsAway": 6,
       "penalties": null
     },
     {
@@ -2118,6 +2118,13 @@
       "assists": null
     },
     {
+      "player": "Jude Bellingham",
+      "team": "England",
+      "teamId": "england",
+      "goals": 7,
+      "assists": 1
+    },
+    {
       "player": "Harry Kane",
       "team": "England",
       "teamId": "england",
@@ -2125,11 +2132,11 @@
       "assists": 1
     },
     {
-      "player": "Jude Bellingham",
-      "team": "England",
-      "teamId": "england",
+      "player": "Ousmane Dembélé",
+      "team": "France",
+      "teamId": "france",
       "goals": 6,
-      "assists": 1
+      "assists": 2
     },
     {
       "player": "Mikel Oyarzabal",
@@ -2137,13 +2144,6 @@
       "teamId": "spain",
       "goals": 5,
       "assists": 1
-    },
-    {
-      "player": "Ousmane Dembélé",
-      "team": "France",
-      "teamId": "france",
-      "goals": 5,
-      "assists": 2
     },
     {
       "player": "Julián Quiñones",
