@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T21:38:01.364Z",
+  "updatedAt": "2026-07-18T22:35:50.978Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2070,8 +2070,8 @@
       },
       "winner": "away",
       "duration": "REGULAR",
-      "goalsHome": 0,
-      "goalsAway": 2,
+      "goalsHome": 3,
+      "goalsAway": 4,
       "penalties": null
     },
     {
@@ -2100,8 +2100,8 @@
       "player": "Kylian Mbappé",
       "team": "France",
       "teamId": "france",
-      "goals": 8,
-      "assists": 3
+      "goals": 10,
+      "assists": 4
     },
     {
       "player": "Lionel Messi",
