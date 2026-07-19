@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T21:39:15.746Z",
+  "updatedAt": "2026-07-19T22:38:42.410Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2079,7 +2079,7 @@
       "stage": "FINAL",
       "group": null,
       "utcDate": "2026-07-19T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home": {
         "id": "spain",
         "name": "Spain"
@@ -2088,9 +2088,9 @@
         "id": "argentina",
         "name": "Argentina"
       },
-      "winner": "draw",
+      "winner": "home",
       "duration": "EXTRA_TIME",
-      "goalsHome": 0,
+      "goalsHome": 1,
       "goalsAway": 0,
       "penalties": null
     }
