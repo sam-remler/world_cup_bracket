@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T20:35:42.185Z",
+  "updatedAt": "2026-07-19T21:39:15.746Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2089,7 +2089,7 @@
         "name": "Argentina"
       },
       "winner": "draw",
-      "duration": "REGULAR",
+      "duration": "EXTRA_TIME",
       "goalsHome": 0,
       "goalsAway": 0,
       "penalties": null
