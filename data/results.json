@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T19:38:32.785Z",
+  "updatedAt": "2026-07-19T20:35:42.185Z",
   "source": "football-data.org",
   "matches": [
     {
@@ -2079,7 +2079,7 @@
       "stage": "FINAL",
       "group": null,
       "utcDate": "2026-07-19T19:00:00Z",
-      "status": "LIVE",
+      "status": "IN_PLAY",
       "home": {
         "id": "spain",
         "name": "Spain"
